@@ -4,7 +4,7 @@
 
 [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=BEst&theme=kakao)](https://thomaschoi.tistory.com/)
 
-[![Profile badge](https://www.codewars.com/users/724thomas2/badges/large)](https://www.codewars.com/users/hugmanrique)
+[![Profile badge](https://www.codewars.com/users/724thomas2/badges/large)](https://www.codewars.com/users/724thomas2)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
