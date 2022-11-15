@@ -7,7 +7,7 @@
 <p align="left">
 <a href="https://dev.to/https://thomaschoi.tistory.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://thomaschoi.tistory.com/" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/won joon thomas choi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="won joon thomas choi" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/tom.c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="tom.c" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/tom-c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="tom-c" height="30" width="40" /></a>
 <a href="https://instagram.com/wj_thomas_choi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wj_thomas_choi" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/thomas724" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="thomas724" height="30" width="40" /></a>
 </p>
