@@ -1,13 +1,15 @@
 <h1 align="left">Backend Developer Won Joon Choi</h1>
 <h3 align="left">A passionate Backend developer from Korea</h3>
 
-[![Profile badge](https://www.codewars.com/users/724thomas2/badges/large)](https://www.codewars.com/users/hugmanrique)
 
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=BEst&theme=kakao)](https://thomaschoi.tistory.com/)
+
+[![Profile badge](https://www.codewars.com/users/724thomas2/badges/large)](https://www.codewars.com/users/hugmanrique)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/https://thomaschoi.tistory.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://thomaschoi.tistory.com/" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/won joon thomas choi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="won joon thomas choi" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/tom-c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="tom-c" height="30" width="40" /></a>
+
+<a href="https://www.linkedin.com/in/won-joon-thomas-choi-ab9358140/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="won joon thomas choi" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/20396603/tom-c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="tom-c" height="30" width="40" /></a>
 <a href="https://instagram.com/wj_thomas_choi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wj_thomas_choi" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/thomas724" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="thomas724" height="30" width="40" /></a>
 </p>
@@ -18,4 +20,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=724thomas&show_icons=true&locale=en&layout=compact" alt="724thomas" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=724thomas&show_icons=true&locale=en" alt="724thomas" /></p>
+
 
