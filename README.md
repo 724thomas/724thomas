@@ -13,6 +13,45 @@
    <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
 </p>
 
+<h2 align="left">Projects:</h2>
+
+
+<h2 align="left">TechTalk:</h2>
+<ul class="roman">
+   <li><b>클린코드 팁 5가지</b>
+      <ul class="square">
+         <li>https://youtu.be/dVAJXfhdpdY</li>
+         <img src="https://user-images.githubusercontent.com/113500771/209475385-87dfc420-cd05-4593-8530-b9445235f3ac.gif" width="300" height="150" />
+      </ul>
+   </li>
+   
+   <li><b>TCP/IP</b>
+      <ul class="square">
+         <li>https://youtu.be/dVAJXfhdpdY</li>
+         <img src="https://user-images.githubusercontent.com/113500771/209475616-b67e84b9-9d6c-4c58-a39d-47f8f4e8b8a1.gif" width="300" height="150" />
+      </ul>
+   </li>
+
+
+
+<h2 align="left">Personal Studies:</h2>
+   <li><b>Selenium & Jsoup</b>
+      <ul class="square">
+         <li>https://github.com/724thomas/naver-pay-project-upgrade.git</li>
+         <img src="https://user-images.githubusercontent.com/113500771/209500653-8b895064-6f2c-4d38-82d5-a02a8034b30c.gif" width="360" height="100" />
+      </ul>
+   </li>
+
+   <li><b>OpenCV & FaceRecognition</b>
+      <ul class="square">
+         <li>https://github.com/724thomas/OpenCV_Practice_Repo.git</li>
+         <img src="https://user-images.githubusercontent.com/113500771/209499852-01145c45-fd32-4e43-b33a-8e4d96269923.gif" width="300" height="150" />
+      </ul>
+   </li>
+
+
+
+
 <h2 align="left">Stats:</h2>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=724thomas&show_icons=true&locale=en&layout=compact" alt="724thomas" /></p>
