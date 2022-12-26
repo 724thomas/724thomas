@@ -32,6 +32,15 @@
       </ul>
    </li>
    
+   <li><b>MVC 기반 네이버페이 웹 기능 구현</b>
+      <ul class="square">
+         <li>Source Code: https://github.com/724thomas/naver-pay-project.git</li>
+         <li>Github Read.me : https://github.com/724thomas/naver-pay-project</li>
+         <li>Tistory Read.me : https://thomaschoi.tistory.com/445</li>
+      </ul>
+   </li>
+   
+ 
    <li><b>(개인)애니팡! 자동화</b>
       <ul class="square">
          <li>Source Code(Python): https://github.com/724thomas/AnnipangPython</li>
