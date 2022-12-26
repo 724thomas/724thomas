@@ -14,6 +14,31 @@
 </p>
 
 <h2 align="left">Projects:</h2>
+<ul class="roman">
+   <li><b>대학교 도서관 시스템 구현</b>
+      <ul class="square">
+         <li>Source Code: https://github.com/724thomas/SpringBoot_CollegeLibrary.git</li>
+         <li>Github Read.me : https://github.com/724thomas/SpringBoot_CollegeLibrary </li>
+         <li>Tistory Read.me : https://thomaschoi.tistory.com/407</li>
+      </ul>
+   </li>
+   
+   <li><b>애니팡! 자동화</b>
+      <ul class="square">
+         <li>Source Code(Python): https://github.com/724thomas/AnnipangPython</li>
+         <li>Source Code(Java): https://github.com/724thomas/AnniPangJava</li>
+         <li>Tistory Read.me : https://thomaschoi.tistory.com/195</li>
+         <img src="https://user-images.githubusercontent.com/113500771/209502685-080ed15d-d3e7-4c29-975a-546e5e787bb4.gif" width="300" height="100" />
+      </ul>
+   </li>
+   
+   <li><b>주식정보 크롤링</b>
+      <ul class="square">
+         <li>Source Code: https://github.com/724thomas/DailyStockCrawling.git</li>
+         <li>Tistory Read.me : https://thomaschoi.tistory.com/194</li>
+      </ul>
+   </li>
+</ul>
 
 
 <h2 align="left">TechTalk:</h2>
@@ -31,7 +56,7 @@
          <img src="https://user-images.githubusercontent.com/113500771/209475616-b67e84b9-9d6c-4c58-a39d-47f8f4e8b8a1.gif" width="300" height="150" />
       </ul>
    </li>
-
+</ul>
 
 
 <h2 align="left">Personal Studies:</h2>
