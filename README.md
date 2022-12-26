@@ -1,5 +1,14 @@
 
 <h1>최원준, 백엔드 웹 개발자</h1>
+<b>Tistory - 물음표 살인마의 개발블로그</b>
+
+ <a>  [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=BEst&theme=kakao)](https://thomaschoi.tistory.com/) </a>
+ 
+ <h2 align="left">Contacts:</h2>
+<a href="https://www.linkedin.com/in/won-joon-thomas-choi-ab9358140/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="won joon thomas choi" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/20396603/tom-c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="tom-c" height="30" width="40" /></a>
+<a href="https://instagram.com/wj_thomas_choi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wj_thomas_choi" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/thomas724" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="thomas724" height="30" width="40" /></a>
 
 <h2 align="left">Languages:</h2>
 <p align="left"> 
@@ -41,16 +50,17 @@
 </ul>
 
 
+
 <h2 align="left">TechTalk:</h2>
 <ul class="roman">
-   <li><b>클린코드 팁 5가지</b>
+   <li><b>TCP/IP</b>
       <ul class="square">
          <li>https://youtu.be/dVAJXfhdpdY</li>
          <img src="https://user-images.githubusercontent.com/113500771/209475385-87dfc420-cd05-4593-8530-b9445235f3ac.gif" width="300" height="150" />
       </ul>
    </li>
    
-   <li><b>TCP/IP</b>
+   <li><b>클린코드 팁 5가지</b>
       <ul class="square">
          <li>https://youtu.be/dVAJXfhdpdY</li>
          <img src="https://user-images.githubusercontent.com/113500771/209475616-b67e84b9-9d6c-4c58-a39d-47f8f4e8b8a1.gif" width="300" height="150" />
@@ -60,6 +70,7 @@
 
 
 <h2 align="left">Personal Studies:</h2>
+<ul class="roman">
    <li><b>Selenium & Jsoup</b>
       <ul class="square">
          <li>https://github.com/724thomas/naver-pay-project-upgrade.git</li>
@@ -74,6 +85,17 @@
       </ul>
    </li>
 
+   <li><b>Coding Algorithms</b>
+      <ul class="square">
+         <li>Codes(Python) : https://github.com/724thomas/CodingChallenge_Python.git</li>
+         <li>Codes(Java) : https://github.com/724thomas/CodingChallenge_Java.git</li>
+         <li>https://thomaschoi.tistory.com/category/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EB%AC%B8%EC%A0%9C</li>
+      </ul>
+   </li>
+</ul>
+   
+   <a>[![Profile badge](https://www.codewars.com/users/724thomas2/badges/large)](https://www.codewars.com/users/724thomas2)</a>
+
 
 
 
@@ -84,13 +106,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=724thomas&show_icons=true&locale=en" alt="724thomas" /></p>
 
 
-<a href="https://www.linkedin.com/in/won-joon-thomas-choi-ab9358140/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="won joon thomas choi" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/20396603/tom-c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="tom-c" height="30" width="40" /></a>
-<a href="https://instagram.com/wj_thomas_choi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wj_thomas_choi" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/thomas724" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="thomas724" height="30" width="40" /></a>
 
- <a>  [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=BEst&theme=kakao)](https://thomaschoi.tistory.com/) </a>
 
- <a>[![Profile badge](https://www.codewars.com/users/724thomas2/badges/large)](https://www.codewars.com/users/724thomas2)</a>
+
+
+
 
 
