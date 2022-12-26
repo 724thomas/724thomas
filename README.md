@@ -111,9 +111,12 @@
       </ul>
    </li>
 </ul>
-   
+<br><br>www.codewar.com   
+  
    <a>[![Profile badge](https://www.codewars.com/users/724thomas2/badges/large)](https://www.codewars.com/users/724thomas2)</a>
-
+<br><br>www.leetcode.com
+  
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=thomas724&theme=dark)](https://github.com/thomas724/leetcode-stats)
 
 
 
