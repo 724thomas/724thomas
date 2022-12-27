@@ -24,6 +24,13 @@
 
 <h2 align="left">Projects:</h2>
 <ul class="roman">
+  <li><b>카페 XENIUM의 Admin 페이지</b>
+      <ul class="square">
+         <li>Source Code: https://github.com/724thomas/SpringBoot_CafeAdminPage.git</li>
+         <li>Github Read.me : https://github.com/724thomas/SpringBoot_CafeAdminPage </li>
+      </ul>
+   </li>
+ 
    <li><b>(개인)대학교 도서관 시스템 구현</b>
       <ul class="square">
          <li>Source Code: https://github.com/724thomas/SpringBoot_CollegeLibrary.git</li>
