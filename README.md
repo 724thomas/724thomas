@@ -120,7 +120,7 @@
 </ul>
 <br><br>www.codewar.com   
   
-   <a>[![Profile badge](https://www.codewars.com/users/724thomas2/badges/large)](https://www.codewars.com/users/724thomas2)</a>
+   <a>![Codewars](https://github.r2v.ch/codewars?user=724thomas2&stroke=%23BB432C)</a>
    
 <br><br>www.leetcode.com
   
