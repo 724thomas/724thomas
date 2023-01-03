@@ -78,7 +78,14 @@
 
 <h2 align="left">TechTalk:</h2>
 <ul class="roman">
-   <li><b>TCP/IP</b>
+   <li><b>TCP/IP - TCP/UDP</b>
+      <ul class="square">
+         <li>https://youtu.be/f-QPcwjoWW0</li>
+         <img src="https://user-images.githubusercontent.com/113500771/210310574-a6a37e2f-13d0-44e1-80b3-987a5a26ff30.gif" width="300" height="150" />
+      </ul>
+   </li>
+ 
+   <li><b>TCP/IP - TCP/UDP</b>
       <ul class="square">
          <li>https://youtu.be/dVAJXfhdpdY</li>
          <img src="https://user-images.githubusercontent.com/113500771/209475385-87dfc420-cd05-4593-8530-b9445235f3ac.gif" width="300" height="150" />
