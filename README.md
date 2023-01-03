@@ -78,7 +78,7 @@
 
 <h2 align="left">TechTalk:</h2>
 <ul class="roman">
-   <li><b>TCP/IP - TCP/UDP</b>
+   <li><b>TCP/IP - IPv4, Subnet Mask, IPv4, CIDR, DHCP, NAT </b>
       <ul class="square">
          <li>https://youtu.be/f-QPcwjoWW0</li>
          <img src="https://user-images.githubusercontent.com/113500771/210310574-a6a37e2f-13d0-44e1-80b3-987a5a26ff30.gif" width="300" height="150" />
