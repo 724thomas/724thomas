@@ -95,7 +95,6 @@
    <li><b>스프링부트 - AWS를 통한 배포</b>
       <ul class="square">
          <li>https://youtu.be/NFFwtxEirNQ</li>
-       
          <img src="https://user-images.githubusercontent.com/113500771/212867215-1a4100b0-3ca5-4c9c-903c-c6b144f57d4b.gif" width="300" height="150" />
       </ul>
    </li>
