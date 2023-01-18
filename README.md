@@ -79,28 +79,28 @@
 <h2 align="left">TechTalk:</h2>
 <ul class="roman">
  
-   <li><b>스프링부트 - AWS를 통한 배포 (22/01/17)</b>
+   <li><b>(23/01/17)스프링부트 - AWS를 통한 배포</b>
       <ul class="square">
          <li>https://youtu.be/NFFwtxEirNQ</li>
          <img src="https://user-images.githubusercontent.com/113500771/212867215-1a4100b0-3ca5-4c9c-903c-c6b144f57d4b.gif" width="300" height="150" />
       </ul>
    </li>
  
-   <li><b>TCP/IP - IPv4, Subnet Mask, IPv4, CIDR, DHCP, NAT (23/01/03)</b>
+   <li><b>(23/01/03)TCP/IP - IPv4, Subnet Mask, IPv4, CIDR, DHCP, NAT</b>
       <ul class="square">
          <li>https://youtu.be/f-QPcwjoWW0</li>
          <img src="https://user-images.githubusercontent.com/113500771/210310574-a6a37e2f-13d0-44e1-80b3-987a5a26ff30.gif" width="300" height="150" />
       </ul>
    </li>
  
-   <li><b>TCP/IP - TCP/UDP (22/12/21)</b>
+   <li><b>(22/12/21)TCP/IP - TCP/UDP</b>
       <ul class="square">
          <li>https://youtu.be/dVAJXfhdpdY</li>
          <img src="https://user-images.githubusercontent.com/113500771/209475385-87dfc420-cd05-4593-8530-b9445235f3ac.gif" width="300" height="150" />
       </ul>
  </li>
  
-   <li><b>클린코드 팁 5가지 (22/12/07)</b>
+   <li><b>(22/12/07)클린코드 팁 5가지</b>
       <ul class="square">
          <li>https://youtu.be/dVAJXfhdpdY</li>
          <img src="https://user-images.githubusercontent.com/113500771/209475616-b67e84b9-9d6c-4c58-a39d-47f8f4e8b8a1.gif" width="300" height="150" />
