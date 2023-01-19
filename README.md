@@ -95,7 +95,7 @@
  
    <li><b>(22/12/21)TCP/IP - TCP/UDP</b>
       <ul class="square">
-         <li>https://youtu.be/dVAJXfhdpdY</li>
+         <li>https://youtu.be/iZ_IUdTcpWE</li>
          <img src="https://user-images.githubusercontent.com/113500771/209475385-87dfc420-cd05-4593-8530-b9445235f3ac.gif" width="300" height="150" />
       </ul>
  </li>
