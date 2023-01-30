@@ -140,7 +140,7 @@
          <li>Codes(Python) : https://github.com/724thomas/CodingChallenge_Python.git</li>
          <li>Codes(Java) : https://github.com/724thomas/CodingChallenge_Java.git</li>
          <li>https://thomaschoi.tistory.com/category/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EB%AC%B8%EC%A0%9C</li>
-         <li>Code Reviews : https://github.com/AlgorithmReivew-Organizaion/CodingReviewRepository </li>
+         <li>Peer Code Reviews : https://github.com/AlgorithmReivew-Organizaion/CodingReviewRepository </li>
       </ul>
    </li>
 </ul>
