@@ -34,6 +34,14 @@
 
 <h2 align="left">Projects:</h2>
 <ul class="roman">
+  <li><b>(개인) 헤어샾 예약 시스템</b>
+      <ul class="square">
+         <li>Source Code: https://github.com/724thomas/SpringBoot_Hairshop_Reservation_System.git</li>
+         <li>Github Read.me : https://github.com/724thomas/SpringBoot_Hairshop_Reservation_System </li>
+         <li>Tistory Read.me : https://thomaschoi.tistory.com/734</li>
+      </ul>
+   </li>
+  
   <li><b>카페 XENIUM의 Admin 페이지</b>
       <ul class="square">
          <li>Source Code: https://github.com/724thomas/SpringBoot_CafeAdminPage.git</li>
