@@ -32,7 +32,10 @@
    <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
 </p>
 
-<h2 align="left">Projects:</h2>
+
+<details>
+<summary><h2 align="left">Projects:</h2></summary>
+
 <ul class="roman">
   <li><b>(개인) 헤어샾 예약 시스템</b>
       <ul class="square">
@@ -92,9 +95,11 @@
    </li>
 </ul>
 
+ </details>
 
 
-<h2 align="left">TechTalk:</h2>
+<details>
+<summary><h2 align="left">TechTalk:</h2></summary>
 <ul class="roman">
  
    <li><b>(23/01/17)스프링부트 - AWS를 통한 배포</b>
@@ -125,9 +130,12 @@
       </ul>
    </li>
 </ul>
+</details>
 
 
-<h2 align="left">Personal Studies:</h2>
+<details>
+<summary><h2 align="left">Personal Studies:</h2></summary>
+
 <ul class="roman">
    <li><b>Selenium & Jsoup</b>
       <ul class="square">
@@ -164,6 +172,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=724thomas2)](https://solved.ac/724thomas2/)
 
+</details>
 
 <h2 align="left">Stats:</h2>
 
