@@ -1,8 +1,5 @@
-<!-- [![724thomas's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=724thomas)](https://github.com/724thomas/github-readme-stats) -->
 
-<!-- [![724thomas's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=724thomas)] -->
 
-<!-- <a href="https://wakatime.com/@0fdda08b-5c79-4fbb-9158-8f978430c932"><img src="https://wakatime.com/badge/user/0fdda08b-5c79-4fbb-9158-8f978430c932.svg" alt="Total time coded since Jan 21 2023" /></a> -->
 
 
 <h1>
@@ -180,6 +177,10 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=724thomas&show_icons=true&locale=en" alt="724thomas" /></p>
 
+<h2 align="left">Weekly Stats:</h2>
+</br>
+
+[![724thomas's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=724thomas)](https://github.com/724thomas/github-readme-stats)
 
 
 
