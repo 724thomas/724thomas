@@ -34,10 +34,10 @@
 <summary><h2 align="left">Projects:</h2></summary>
 
 <ul class="roman">
-  <li><b>Credit-Market 대출정보 제공 시스템</b>
+  <li><b>(FE협업 프로젝트) Credit-Market 대출정보 제공 시스템</b>
       <ul class="square">
          <li>Source Code: https://github.com/fastcampus-mini/credit-market-BE.git</li>
-         <li>Github Read.me : https://github.com/fastcampus-mini/credit-market-BE.git </li>
+         <li>Github Read.me : https://github.com/fastcampus-mini/credit-market-BE </li>
       </ul>
    </li>
   
