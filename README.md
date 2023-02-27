@@ -1,7 +1,6 @@
 
 
 
-
 <h1>
   <a>최원준, 백엔드 웹 개발자</a>
   <a href="http://wonjoonthomaschoi.site/" target="_blank">Resume</a>
