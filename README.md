@@ -6,7 +6,7 @@
 
 <h1>
   <a>최원준, 백엔드 웹 개발자</a>
-  <a href="http://wonjoonthomaschoi.site/" target="_blank">Resume</a>
+  <a href="http://wonjoonthomaschoi.site/" target="_blank">Portfolio</a>
 </h1>
 
 <b>Tistory - 물음표 살인마의 개발블로그</b>
