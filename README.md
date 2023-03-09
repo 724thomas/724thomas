@@ -13,25 +13,33 @@
 
  <a>  [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=BEst&theme=kakao)](https://thomaschoi.tistory.com/) </a>
  
- <h2 align="left">Contacts:</h2>
+<!--  <h2 align="left">Contacts:</h2>
 <a href="https://www.linkedin.com/in/won-joon-thomas-choi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="won joon thomas choi" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/20396603/tom-c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="tom-c" height="30" width="40" /></a>
 <a href="https://instagram.com/wj_thomas_choi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wj_thomas_choi" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/thomas724" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="thomas724" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/thomas724" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="thomas724" height="30" width="40" /></a> -->
 
-<h2 align="left">Languages:</h2>
-<p align="left"> 
-   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<h2 align="left">Skills:</h2>
+<h3 style="font-size: 24px;"><b>Backend:</b></h3>
+Java, Python<br>
+Spring boot, Spring framework, RESTful API<br>
+CI/CD, JWT, OAuth, AOP, Mockito, SWAGGER<br>
+JavaCV, Selenium, ChatGPT API<br>
+<h3 style="font-size: 24px;"><b>DB:</b></h3>
+MariaDB, Mybatis, JPA
+<br>
+<h3 style="font-size: 24px;"><b>Server:</b></h3>
+Apache Tomcat, AWS EC2, nginx<br>
+<br>
+<h3 style="font-size: 24px;"><b>Tools:</b></h3>
+Intellij, Postman, DBeaver, Unity<br>
+<br>
+<h3 style="font-size: 24px;"><b>Documents:</b></h3>
+Github, Slack, Notion, GoogleDrive, Powerpoint, Excel<br>
+  
+  
+  
 </p>
-<h2 align="left">Frameworks and Tools:</h2>
-<p align="left"> 
-   <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
-   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-   <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
-</p>
-
-
 <details>
 <summary><h2 align="left">Projects:</h2></summary>
 
