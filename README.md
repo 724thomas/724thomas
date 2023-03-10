@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/113500771/222829199-352e2a96-08b1-413f-9103-8cadf413894d.png" />
 </p>
@@ -6,7 +7,7 @@
 
 <h1>
   <a>최원준, 백엔드 웹 개발자</a>
-  <a href="http://wonjoonthomaschoi.site/" target="_blank">Portfolio</a>
+  (check out my <a href="http://wonjoonthomaschoi.site/" target="_blank">Portfolio!</a>)
 </h1>
 
 <b>Tistory - 물음표 살인마의 개발블로그</b>
@@ -20,25 +21,10 @@
 <a href="https://www.leetcode.com/thomas724" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="thomas724" height="30" width="40" /></a> -->
 
 <h2 align="left">Skills:</h2>
-<h3 style="font-size: 24px;"><b>Backend:</b></h3>
-Java, Python<br>
-Spring boot, Spring framework, RESTful API<br>
-CI/CD, JWT, OAuth, AOP, Mockito, SWAGGER<br>
-JavaCV, Selenium, ChatGPT API<br>
-<h3 style="font-size: 24px;"><b>DB:</b></h3>
-MariaDB, Mybatis, JPA
-<br>
-<h3 style="font-size: 24px;"><b>Server:</b></h3>
-Apache Tomcat, AWS EC2, nginx<br>
-<br>
-<h3 style="font-size: 24px;"><b>Tools:</b></h3>
-Intellij, Postman, DBeaver, Unity<br>
-<br>
-<h3 style="font-size: 24px;"><b>Documents:</b></h3>
-Github, Slack, Notion, GoogleDrive, Powerpoint, Excel<br>
-  
-  
-  
+
+[![My Skills](https://skillicons.dev/icons?i=java,py,cs,spring,idea,vscode,unity,aws,nginx,postman,selenium,github)](https://skillicons.dev)
+ and <a href="http://wonjoonthomaschoi.site/" target="_blank">More !</a>
+
 </p>
 <details>
 <summary><h2 align="left">Projects:</h2></summary>
