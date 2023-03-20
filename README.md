@@ -181,10 +181,10 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=724thomas&show_icons=true&locale=en" alt="724thomas" /></p>
 
-<h2 align="left">Weekly Stats:</h2>
-</br>
+<!-- <h2 align="left">Weekly Stats:</h2> -->
+<!-- </br> -->
 
-[![724thomas's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=724thomas)](https://github.com/724thomas/github-readme-stats)
+<!-- [![724thomas's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=724thomas)](https://github.com/724thomas/github-readme-stats) -->
 
 
 
