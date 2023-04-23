@@ -30,7 +30,15 @@
 <summary><h2 align="left">Projects:</h2></summary>
 
 <ul class="roman">
-  <li><b>(FE협업 프로젝트) Credit-Market 대출정보 제공 시스템</b>
+  <li><b>(기업, UXUI, FE 협업 프로젝트) Medi Match 개인, 기업, 관리자 회원으로 구분하여 인사와 채용 절차 프로세스 자동화와 관리 서비스</b>
+      <ul class="square">
+         <li>Source Code: https://github.com/KDT3-final-project-team2/backend.git</li>
+         <li>Github Read.me : https://github.com/KDT3-final-project-team2/backend </li>
+      </ul>
+   </li>
+  
+  
+  <li><b>(FE 협업 프로젝트) Credit-Market 대출정보 제공 시스템</b>
       <ul class="square">
          <li>Source Code: https://github.com/fastcampus-mini/credit-market-BE.git</li>
          <li>Github Read.me : https://github.com/fastcampus-mini/credit-market-BE </li>
