@@ -1,4 +1,4 @@
-  
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/113500771/222829199-352e2a96-08b1-413f-9103-8cadf413894d.png" />
 </p>  
@@ -193,6 +193,14 @@
 <!-- </br> -->
 
 <!-- [![724thomas's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=724thomas)](https://github.com/724thomas/github-readme-stats) -->
+
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=724thomas&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0" width=98%/>
+</a>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=724thomas&theme=tokyonight)](https://git.io/streak-stats)
+<!--   <a href="https://opgc.me/#/users/724thomas" target="_blank"><img src="https://api.opgc.me/githubs/users/724thomas/tag/?theme=basic" /></a> -->
+  
 
 
 
