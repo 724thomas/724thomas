@@ -24,7 +24,7 @@ My Career So far
 
 <br>
 
-More about me:
+More about me
 
 <!-- Portfolio -->
 <a href="http://wonjoonthomaschoi.site/portfolio/kor">
@@ -40,7 +40,7 @@ More about me:
 <br>
 </br>
 
-My contacts:
+My contacts
 
 <p>
   <!-- Gmail -->
