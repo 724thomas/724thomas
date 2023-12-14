@@ -1,4 +1,8 @@
-                                          
+<p align="center"> 
+  <img src="https://github.com/724thomas/724thomas/assets/113500771/02c6e163-6b20-494f-b03d-60df579f839b" width="600" height="300" />
+</p>  
+
+
 <p align="center"> 
   <img src="https://user-images.githubusercontent.com/113500771/222829199-352e2a96-08b1-413f-9103-8cadf413894d.png" width="150" height="150" />
 </p>  
