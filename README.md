@@ -2,11 +2,12 @@
   <img src="https://github.com/724thomas/724thomas/assets/113500771/02c6e163-6b20-494f-b03d-60df579f839b" width="640" height="300" />
 </p>  
 
-
+</div>
+  
 
  
 
-# 🗨️ Hello, I am Won Joon!
+# 🗨️ Hello, I am Won Joon! <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F724thomas&count_bg=%23555555&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
 
 I'm interested in
 
