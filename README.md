@@ -1,9 +1,10 @@
+<!-- <p align="center">  -->
+<!--   <img src="https://github.com/724thomas/724thomas/assets/113500771/02c6e163-6b20-494f-b03d-60df579f839b" width="640" height="300" /> -->
+<!-- </p>   -->
 <p align="center"> 
-  <img src="https://github.com/724thomas/724thomas/assets/113500771/02c6e163-6b20-494f-b03d-60df579f839b" width="640" height="300" />
+  <img src="https://github.com/724thomas/724thomas/assets/113500771/31907ca4-50d2-432c-ab26-6292e327126eb" width="530" height="300" />
 </p>  
 
-</div>
-  
 
  
 
