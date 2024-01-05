@@ -17,8 +17,8 @@ I'm interested in
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-for-the-badge&logo=spring&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-for-the-badge&logo=fastapi)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-for-the-badge&logo=c-sharp&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-100000?style=flat-for-the-badge&logo=unity&logoColor=white)
+<!-- ![C#](https://img.shields.io/badge/C%23-239120?style=flat-for-the-badge&logo=c-sharp&logoColor=white) -->
+<!-- ![Unity](https://img.shields.io/badge/Unity-100000?style=flat-for-the-badge&logo=unity&logoColor=white) -->
 
 <br>
 
