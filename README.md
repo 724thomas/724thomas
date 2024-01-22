@@ -24,7 +24,8 @@ I'm interested in
 
 My Career So far
 
-- <p> <img width="16" src="https://media.licdn.com/dms/image/C560BAQHXRQRe-Wub9A/company-logo_200_200/0/1669098979959?e=1704931200&v=beta&t=hMd1-j0S73Vp1WQbj2x3xcf4pP99BsLfb6l1_o_6ydY"> <b>KakaoBrain</b> - Backend Developer Intern <i>(2023.06 ~ 2023.08)</i></img></p>
+
+- <b>KakaoBrain</b> - Backend Developer Intern <i>(2023.06 ~ 2023.08)</i></img></p>
 
 <br>
 
