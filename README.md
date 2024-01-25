@@ -24,8 +24,8 @@ I'm interested in
 
 My Career So far
 
-
-- <b>KakaoBrain</b> - Backend Developer Intern <i>(2023.06 ~ 2023.08)</i></img></p>
+- <b>Graphic</b> - Backend Developer <i>(2024.01 ~ )</i>
+- <b>KakaoBrain</b> - Backend Developer Intern <i>(2023.06 ~ 2023.08)</i>
 
 <br>
 
