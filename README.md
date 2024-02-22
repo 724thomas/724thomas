@@ -52,8 +52,6 @@ My contacts
 <p>
   <!-- Gmail -->
   <img src="https://img.shields.io/badge/724thomas@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>&nbsp
-  <!-- Instagram -->
-  <img src="https://img.shields.io/badge/wj__thomas__choi-E4405F?style=flat-for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp
   <!-- LinkedIn -->
   <img src="https://img.shields.io/badge/won_joon_thomas_choi-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp
 </p>
