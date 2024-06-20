@@ -68,6 +68,8 @@ My contacts
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=724thomas&theme=tokyonight)](https://git.io/streak-stats)
 <!--   <a href="https://opgc.me/#/users/724thomas" target="_blank"><img src="https://api.opgc.me/githubs/users/724thomas/tag/?theme=basic" /></a> -->
 
+<a href="https://opgc.me/#/users/724thomas" target="_blank"><img src="https://api.opgc.me/githubs/users/724thomas/tag/?theme=basic" /></a>
+
 </details>
 
 
