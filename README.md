@@ -60,13 +60,15 @@ My contacts
 
 <details>
   <summary>My stats:</summary>
+
   
-  [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=thomas724&theme=dark)](https://github.com/thomas724/leetcode-stats)
   
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=724thomas2)](https://solved.ac/724thomas2/)
 
   
 <a href="https://opgc.me/#/users/724thomas" target="_blank"><img src="https://api.opgc.me/githubs/users/724thomas/tag/?theme=basic" /></a>
+
+  ![Leetcode Stats](https://leetcard.jacoblin.cool/thomas724)
 
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=724thomas&theme=tokyonight)](https://git.io/streak-stats)
 <!--   <a href="https://opgc.me/#/users/724thomas" target="_blank"><img src="https://api.opgc.me/githubs/users/724thomas/tag/?theme=basic" /></a> -->
