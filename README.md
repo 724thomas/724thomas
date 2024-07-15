@@ -27,7 +27,7 @@ I'm interested in
 My Career So far
 
 - <b>Graphic</b> - Backend Developer Intern <i>(2024.01 ~ 2024.05)</i>
-- <b>PetNuri</b> - Dev Team lead <i>(2023.09 ~ 2024.11)</i>
+- <b>PetNuri</b> - Dev Team Lead <i>(2023.09 ~ 2024.11)</i>
 - <b>KakaoBrain</b> - Backend Developer Intern <i>(2023.06 ~ 2023.08)</i>
 
 <br>
