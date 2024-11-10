@@ -1,13 +1,19 @@
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/724thomas"
+    width="600"
+    height="120"
+  />
+</a>
+  
+
 <!-- <p align="center">  -->         
 <!--   <img src="https://github.com/724thomas/724thomas/assets/113500771/02c6e163-6b20-494f-b03d-60df579f839b" width="640" height="300" /> -->
 <!-- </p>   -->
 <!-- <p align="center">  -->
 <!--  <img src="https://github.com/724thomas/724thomas/assets/113500771/31907ca4-50d2-432c-ab26-6292e327126eb" width="530" height="300" />  -->
 <!--</p>    -->
-
-<p align="center"> 
-  <img src="https://user-images.githubusercontent.com/113500771/222829199-352e2a96-08b1-413f-9103-8cadf413894d.png" width="150" height="150" />
-</p>  
   
 
 # 🗨️ Hello, I am Won Joon! <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F724thomas&count_bg=%23555555&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
