@@ -1,4 +1,4 @@
- 
+<!--
 <a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/lines/724thomas"
@@ -6,8 +6,8 @@
     height="120"
   />
 </a>
+-->
   
-
 <!-- <p align="center">  -->         
 <!--   <img src="https://github.com/724thomas/724thomas/assets/113500771/02c6e163-6b20-494f-b03d-60df579f839b" width="640" height="300" /> -->
 <!-- </p>   -->
@@ -16,7 +16,7 @@
 <!--</p>    -->
   
 
-# 🗨️ Hello, I am Won Joon! <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F724thomas&count_bg=%23555555&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
+<!-- # 🗨️ Hello, I am Won Joon! <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F724thomas&count_bg=%23555555&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/> -->
 
 I'm interested in
 
@@ -53,37 +53,35 @@ More about me
 <br>
 </br>
 
-My contacts
+<!-- My contacts -->
 
-<p>
+<!-- <p> -->
   <!-- Gmail -->
-  <img src="https://img.shields.io/badge/724thomas@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>&nbsp
+<!--  <img src="https://img.shields.io/badge/724thomas@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>&nbsp -->
   <!-- LinkedIn -->
-  <img src="https://img.shields.io/badge/won_joon_thomas_choi-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp
-</p>
+<!--  <img src="https://img.shields.io/badge/won_joon_thomas_choi-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp -->
+<!-- </p> -->
 
 
-
+<!--
 <details>
   <summary>My stats:</summary>
 
-  
-  
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=724thomas2)](https://solved.ac/724thomas2/)
 
-  
-<a href="https://opgc.me/#/users/724thomas" target="_blank"><img src="https://api.opgc.me/githubs/users/724thomas/tag/?theme=basic" /></a>
+  <a href="https://opgc.me/#/users/724thomas" target="_blank"><img src="https://api.opgc.me/githubs/users/724thomas/tag/?theme=basic" /></a>
 
   ![Leetcode Stats](https://leetcard.jacoblin.cool/thomas724)
 
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=724thomas&theme=tokyonight)](https://git.io/streak-stats)
-<!--   <a href="https://opgc.me/#/users/724thomas" target="_blank"><img src="https://api.opgc.me/githubs/users/724thomas/tag/?theme=basic" /></a> -->
 
-<p align="center">
-  <a href="https://github.com/dnwls16071">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=724thomas&&show_icons=true&include_all_commits=false&theme=nord"/>
-  </a>
-</p>
+  <p align="center">
+    <a href="https://github.com/dnwls16071">
+      <img align="left" src="https://github-readme-stats.vercel.app/api?username=724thomas&&show_icons=true&include_all_commits=false&theme=nord"/>
+    </a>
+  </p>
 </details>
+-->
+
 
 
