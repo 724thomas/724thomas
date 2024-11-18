@@ -13,7 +13,7 @@
 ### Experience
 - <b>Graphic</b> - Backend Developer Intern <i>(2024.01 ~ 2024.05)</i>
 - <b>KakaoBrain</b> - Backend Developer Intern <i>(2023.06 ~ 2023.08)</i>
-- <b>FastCampus</b> - KDT Backend Developer Training Bootcamp <i>(22.09 ~ 23.04)</i>
+- <b>FastCampus</b> - KDT Backend Developer Training Bootcamp <i>(2022.09 ~ 2023.04)</i>
 
 ### Articles
 
