@@ -17,8 +17,7 @@
 - <b>FastCampus</b> - KDT Backend Developer Training Bootcamp <i>(2022.09 ~ 2023.04)</i>
 
 ### Articles
-
-- 
+- [알림시스템 개선 과정](https://wonjoon.gitbook.io/joons-til/database/ensuring-data-consistency-atomicity-and-ux-optimization-feat.firebase)
 - [코드멘토: 쿠버네티스 도입 배경과 프로젝트 개선 과정](https://wonjoon.gitbook.io/joons-til/toy-project/codementor/implementation-of-k8s)
 
 ### Programming Stats
