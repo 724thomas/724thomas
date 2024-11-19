@@ -12,14 +12,14 @@
 - 🚀 currently working as a **backend engineer**
 
 ### Experience
-- <b>Graphic</b> - Backend Developer Intern <i>(2024.01 ~ 2024.05)</i>
-- <b>KakaoBrain</b> - Backend Developer Intern <i>(2023.06 ~ 2023.08)</i>
+- <b>Graphic</b> - [Backend Developer Intern](https://wonjoon.gitbook.io/joons-til/reviews/graphic-intern-review) <i>(2024.01 ~ 2024.05)</i>
+- <b>KakaoBrain</b> - [Backend Developer Intern](https://wonjoon.gitbook.io/joons-til/reviews/kakao-brain-pathfinder-review) <i>(2023.06 ~ 2023.08)</i>
 - <b>FastCampus</b> - KDT Backend Developer Training Bootcamp <i>(2022.09 ~ 2023.04)</i>
 
 ### Articles
 
 - 
--
+- [코드멘토: 쿠버네티스 도입 배경과 프로젝트 개선 과정](https://wonjoon.gitbook.io/joons-til/toy-project/codementor/implementation-of-k8s)
 
 ### Programming Stats
 <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=724thomas&show_icons=true&bg_color=00000000&border_color=00000000"></img>
