@@ -22,6 +22,12 @@
 - [코드멘토: 프로젝트 설계와 개선 과정](https://wonjoon.gitbook.io/joons-til/toy-project/codementor/implementation-of-k8s)
 - [데이터 마이그레이션 프로세스 설계: 서버 로그 아카이빙 파이프라인](https://wonjoon.gitbook.io/joons-til/aws/server-log-archive-pipeline)
 
+### Recent
+- [동기화](https://wonjoon.gitbook.io/joons-til/java/synchronized)
+- [메모리 가시성](https://wonjoon.gitbook.io/joons-til/java/memory-visibility)
+- [쓰레드](https://wonjoon.gitbook.io/joons-til/java/thread)
+- [HTTP 0.9-3.0](https://wonjoon.gitbook.io/joons-til/network/http-0.9-3.0)
+
 ### Programming Stats
 <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=724thomas&show_icons=true&bg_color=00000000&border_color=00000000"></img>
 <img height="180rem" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=724thomas2"></img>
