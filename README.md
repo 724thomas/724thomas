@@ -23,7 +23,7 @@
 - [데이터 마이그레이션 프로세스 설계: 서버 로그 아카이빙 파이프라인](https://wonjoon.gitbook.io/joons-til/aws/server-log-archive-pipeline)
 
 ### Recent
-- [생산자 소비자)[https://wonjoon.gitbook.io/joons-til/java/producer-and-consumer]
+- [생산자 소비자](https://wonjoon.gitbook.io/joons-til/java/producer-and-consumer)
 - [동기화](https://wonjoon.gitbook.io/joons-til/java/synchronized)
 - [메모리 가시성](https://wonjoon.gitbook.io/joons-til/java/memory-visibility)
 - [쓰레드](https://wonjoon.gitbook.io/joons-til/java/thread)
