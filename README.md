@@ -29,5 +29,12 @@
 - [쓰레드](https://wonjoon.gitbook.io/joons-til/java/thread)
 
 ### Programming Stats
+<!--
 <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=724thomas&show_icons=true&bg_color=00000000&border_color=00000000"></img>
 <img height="180rem" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=724thomas2"></img>
+-->
+
+<img height="120rem" src="https://github-readme-stats.vercel.app/api?username=724thomas&show_icons=true&bg_color=00000000&border_color=00000000"></img>
+<img height="120rem" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=724thomas2"></img>
+<img height="120rem" src="https://leetcard.jacoblin.cool/thomas724"></img>
+
