@@ -23,7 +23,7 @@
 - [데이터 마이그레이션 프로세스 설계: 서버 로그 아카이빙 파이프라인](https://wonjoon.gitbook.io/joons-til/aws/server-log-archive-pipeline)
 
 ### Recent
-- [역할과 권한](https://wonjoon.gitbook.io/joons-til/f-lab/week6/role#id-7.2)
+- [역할과 권한 feat. RBAC, ACL](https://wonjoon.gitbook.io/joons-til/f-lab/week6/role#id-7.2)
 - [생산자 소비자](https://wonjoon.gitbook.io/joons-til/java/producer-and-consumer)
 - [동기화](https://wonjoon.gitbook.io/joons-til/java/synchronized)
 - [메모리 가시성](https://wonjoon.gitbook.io/joons-til/java/memory-visibility)
