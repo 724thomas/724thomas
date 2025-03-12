@@ -7,7 +7,7 @@
 
 ### About Me
 
-- 🎓 majored **business**
+- 🎓 majored in **business**
 - 🛫 previously worked as a **international sales && logistics manager**
 - 🚀 currently working as a **backend engineer**
 
