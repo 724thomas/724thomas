@@ -17,7 +17,7 @@
 - <b>FastCampus</b> - KDT Backend Developer Training Bootcamp <i>(2022.09 ~ 2023.04)</i>
 
 ### Articles
-- [자바 메모리 영역과 메모리 오버플로]([https://wonjoon.gitbook.io/joons-til/aws/server-log-archive-pipeline](https://wonjoon.gitbook.io/joons-til/books/digging-deep-into-jvm/chapter-2.-java-memory-area-and-memory-overflow))
+- [자바 메모리 영역과 메모리 오버플로](https://wonjoon.gitbook.io/joons-til/books/digging-deep-into-jvm/chapter-2.-java-memory-area-and-memory-overflow)
 - [조회 성능 개선 과정: 쿼리 분석과 Materialized View](https://wonjoon.gitbook.io/joons-til/database/enhancing-query-performance-user-list)
 - [알림시스템 개선 과정: 제3 서비스 문제 발생시 신뢰도 영향 최소화](https://wonjoon.gitbook.io/joons-til/database/ensuring-data-consistency-atomicity-and-ux-optimization-feat.firebase)
 - [코드멘토: 프로젝트 설계와 개선 과정](https://wonjoon.gitbook.io/joons-til/toy-project/codementor/implementation-of-k8s)
