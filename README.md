@@ -24,10 +24,10 @@
 
 
 ### Recent
+- [가비지 컬렉터와 메모리 할당 전략](https://wonjoon.gitbook.io/joons-til/books/digging-deep-into-jvm/chapter-3.-garbage-collector-and-memory-allocation-strategy-1-2)
 - [자바 메모리 영역과 메모리 오버플로](https://wonjoon.gitbook.io/joons-til/books/digging-deep-into-jvm/chapter-2.-java-memory-area-and-memory-overflow)
 - [역할과 권한 feat. RBAC, ACL](https://wonjoon.gitbook.io/joons-til/f-lab/week6/role#id-7.2)
 - [생산자 소비자](https://wonjoon.gitbook.io/joons-til/java/producer-and-consumer)
-- [동기화](https://wonjoon.gitbook.io/joons-til/java/synchronized)
 
 ### Programming Stats
 <!--
