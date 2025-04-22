@@ -37,11 +37,14 @@
 
 <img height="120rem" src="https://github-readme-stats.vercel.app/api?username=724thomas&show_icons=true&bg_color=00000000&border_color=00000000"></img>
 <img height="120rem" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=724thomas2"></img>
-<img height="120rem" src="https://leetcard.jacoblin.cool/thomas724"></img>
-<img height="120rem" src="https://stats.justsong.cn/api/leetcode/?username=thomas724&theme=dark"></img>
-<img height="120rem" src="https://leetcode-stats.vercel.app/api?username=thomas724&theme=Dark"></img>
+<img height="120rem" src="https://leetcode-badge-sage.vercel.app/badge/thomas724?theme=dark&bgColor=282828"></img>
+
+
 
 
 <!--
+<img height="120rem" src="https://leetcard.jacoblin.cool/thomas724"></img>
+<img height="120rem" src="https://stats.justsong.cn/api/leetcode/?username=thomas724&theme=dark"></img>
+<img height="120rem" src="https://leetcode-stats.vercel.app/api?username=thomas724&theme=Dark"></img>
 <img height="120rem" src="https://leetcard.jacoblin.cool/thomas724?theme=unicorn&font=Pavanam"></img>
 -->
