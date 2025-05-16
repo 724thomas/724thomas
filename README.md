@@ -24,7 +24,7 @@
 
 
 ### Recent
-- [ (25.05.16) QueryDSL의 fetchResult()를 쓰지 않는 이유](https://wonjoon.gitbook.io/joons-til/jpa-querydsl/why-fetchresults-is-deprecated)
+- [ (25.05.16) 페이징 처리시 QueryDSL5.0부터 fetch(), count()를 분리하는 이유](https://wonjoon.gitbook.io/joons-til/jpa-querydsl/why-fetchresults-is-deprecated)
 - [ (25.05.14) TCP와 HTTP의 Head of Line Blocking](https://wonjoon.gitbook.io/joons-til/network/http-and-tcp-head-of-line-blocking)
 - [ (25.04.22) DIP. 의존관계 제어 원칙](https://wonjoon.gitbook.io/joons-til/spring/dip.-dependency-inversion-principal)
 - [ (25.04.16) ch5. 셰넌도어, ZGC, 세대 구분 ZGC](https://wonjoon.gitbook.io/joons-til/books/digging-deep-into-jvm/chapter-3.-garbage-collector-and-memory-allocation-strategy-2-2)
