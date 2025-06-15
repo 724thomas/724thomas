@@ -24,6 +24,7 @@
 
 
 ### Recent
+- [ (25.06.14) JPA - OSIV와 DB 커넥션풀](https://wonjoon.gitbook.io/joons-til/performance-test-study/leetcode-project/jpa-osiv)
 - [ (25.06.09) [리뷰]알림 서비스로 시작하는 서버 개발 / if(kakao)2022 ](https://wonjoon.gitbook.io/joons-til/interview-practices/tech-review/if-kakao/alarm-service-in-server-if-kakao-2022)
 - [ (25.06.02) [리뷰]JVM warm up / if(kakao)2022 ](https://wonjoon.gitbook.io/joons-til/interview-practices/tech-review/if-kakao/jvm-warm-up-if-kakao-2022)
 - [ (25.05.26) [리뷰]추가 배포 없이 API의 case 통일시키기 / if(kakaoAI)2024 ](https://wonjoon.gitbook.io/joons-til/interview-practices/tech-review/if-kakao/standardizing-api-case-handling-without-redeployment-if-kakaoai-2024)
