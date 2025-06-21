@@ -24,16 +24,18 @@
 
 
 ### Recent
+
+- [ (25.06.20) 부하 상황에서 API 병목 진단 및 대응 전략 분석](https://wonjoon.gitbook.io/joons-til/performance-test-study/leetcode-project/k6-load-test/load-test-apis)
 - [ (25.06.14) JPA - OSIV와 DB 커넥션풀](https://wonjoon.gitbook.io/joons-til/performance-test-study/leetcode-project/jpa-osiv)
 - [ (25.06.09) [리뷰]알림 서비스로 시작하는 서버 개발 / if(kakao)2022 ](https://wonjoon.gitbook.io/joons-til/interview-practices/tech-review/if-kakao/alarm-service-in-server-if-kakao-2022)
 - [ (25.06.02) [리뷰]JVM warm up / if(kakao)2022 ](https://wonjoon.gitbook.io/joons-til/interview-practices/tech-review/if-kakao/jvm-warm-up-if-kakao-2022)
-- [ (25.05.26) [리뷰]추가 배포 없이 API의 case 통일시키기 / if(kakaoAI)2024 ](https://wonjoon.gitbook.io/joons-til/interview-practices/tech-review/if-kakao/standardizing-api-case-handling-without-redeployment-if-kakaoai-2024)
-
 
 <details>
 <summary>더 보기</summary>
 
 <ul>
+<!--   <li><a href="__URL__">___Title___</a></li> -->
+  <li><a href="https://wonjoon.gitbook.io/joons-til/interview-practices/tech-review/if-kakao/standardizing-api-case-handling-without-redeployment-if-kakaoai-2024">(25.05.26) [리뷰]추가 배포 없이 API의 case 통일시키기</a></li>
   <li><a href="https://wonjoon.gitbook.io/joons-til/books/digging-deep-into-jvm/chapter-8.-bytecode-executor-engine-1-2">(25.05.21) ch8. 바이트코드 실행 엔진(1/2)</a></li>
   <li><a href="https://wonjoon.gitbook.io/joons-til/java/mesi-protocol-in-cas">(25.05.18) CAS 하드웨어 작동 원리: MESI 프로토콜</a></li>
   <li><a href="https://wonjoon.gitbook.io/joons-til/jpa-querydsl/why-fetchresults-is-deprecated">(25.05.16) QueryDSL5.0부터 페이징 처리시 fetch(), count()를 분리하는 이유</a></li>
