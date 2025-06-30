@@ -22,18 +22,22 @@
 - [코드멘토: 프로젝트 설계와 개선 과정](https://wonjoon.gitbook.io/joons-til/toy-project/codementor/implementation-of-k8s)
 - [데이터 마이그레이션 프로세스 설계: 서버 로그 아카이빙 파이프라인](https://wonjoon.gitbook.io/joons-til/aws/server-log-archive-pipeline)
 
-
 ### Recent
-- [ (25.06.24) Cursor와 MCP로 프로젝트 개발하기](https://wonjoon.gitbook.io/joons-til/ai/vibecoding/project-development-using-cursor-and-mcp)
-- [ (25.06.23) [리뷰]Kafka를 이용하는 메시지 플랫폼에서 장애를 겪으며 아키텍처를 개선한 이야기 ](https://wonjoon.gitbook.io/joons-til/techtalk-review/woowacon/2024/architecture-improvement-after-kafka-failure)
-- [ (25.06.20) 부하 상황에서 API 병목 진단 및 대응 전략 분석](https://wonjoon.gitbook.io/joons-til/performance-test-study/leetcode-project/k6-load-test/load-test-apis)
-- [ (25.06.14) JPA - OSIV와 DB 커넥션풀](https://wonjoon.gitbook.io/joons-til/performance-test-study/leetcode-project/jpa-osiv)
+<!--   <li><a href="__URL__">___Title___</a></li> -->
+<ul>
+  <li><a href="https://wonjoon.gitbook.io/joons-til/performance-test-study/leetcode-project/troubleshooting/throughput-beyond-vcpu">(25.06.30) 트러블슈팅: vCPU이상의 처리량</a></li>
+  <li><a href="https://wonjoon.gitbook.io/joons-til/ai/vibecoding/project-development-using-cursor-and-mcp">(25.06.24) Cursor와 MCP로 프로젝트 개발하기</a></li>
+  <li><a href="https://wonjoon.gitbook.io/joons-til/performance-test-study/leetcode-project/troubleshooting/rabbitmq-ackmode-none">(25.06.23) 트러블슈팅: ackMode = ‘NONE’</a></li>
+  <li><a href="https://wonjoon.gitbook.io/joons-til/techtalk-review/woowacon/2024/architecture-improvement-after-kafka-failure">(25.06.23) [리뷰]Kafka를 이용하는 메시지 플랫폼에서 장애를 겪으며 아키텍처를 개선한 이야기</a></li>
+
+</ul>
 
 <details>
 <summary>더 보기</summary>
 
 <ul>
-<!--   <li><a href="__URL__">___Title___</a></li> -->
+  <li><a href="https://wonjoon.gitbook.io/joons-til/performance-test-study/leetcode-project/k6-load-test/load-test-apis">(25.06.20) 부하 상황에서 API 병목 진단 및 대응 전략 분석</a></li>
+  <li><a href="https://wonjoon.gitbook.io/joons-til/performance-test-study/leetcode-project/jpa-osiv">(25.06.14) JPA - OSIV와 DB 커넥션풀</a></li>
   <li><a href="[__URL__](https://wonjoon.gitbook.io/joons-til/interview-practices/tech-review/if-kakao/alarm-service-in-server-if-kakao-2022)">(25.06.09) [리뷰]알림 서비스로 시작하는 서버 개발 / if(kakao)2022</a></li>
   <li><a href="https://wonjoon.gitbook.io/joons-til/interview-practices/tech-review/if-kakao/jvm-warm-up-if-kakao-2022">(25.06.02) [리뷰]JVM warm up / if(kakao)2022</a></li>
   <li><a href="https://wonjoon.gitbook.io/joons-til/interview-practices/tech-review/if-kakao/standardizing-api-case-handling-without-redeployment-if-kakaoai-2024">(25.05.26) [리뷰]추가 배포 없이 API의 case 통일시키기</a></li>
