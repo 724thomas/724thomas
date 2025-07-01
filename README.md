@@ -25,6 +25,7 @@
 ### Recent
 <!--   <li><a href="__URL__">___Title___</a></li> -->
 <ul>
+  <li><a href="https://wonjoon.gitbook.io/joons-til/performance-test-study/leetcode-project/k6-load-test/load-test-submission-api">(25.07.02) 고확장성 부하테스트</a></li>
   <li><a href="https://wonjoon.gitbook.io/joons-til/performance-test-study/leetcode-project/troubleshooting/throughput-beyond-vcpu">(25.06.30) 트러블슈팅: vCPU이상의 처리량</a></li>
   <li><a href="https://wonjoon.gitbook.io/joons-til/ai/vibecoding/project-development-using-cursor-and-mcp">(25.06.24) Cursor와 MCP로 프로젝트 개발하기</a></li>
   <li><a href="https://wonjoon.gitbook.io/joons-til/performance-test-study/leetcode-project/troubleshooting/rabbitmq-ackmode-none">(25.06.23) 트러블슈팅: ackMode = ‘NONE’</a></li>
