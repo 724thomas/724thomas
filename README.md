@@ -24,17 +24,17 @@
 ### Recent
 <!--   <li><a href="__URL__">___Title___</a></li> -->
 <ul>
+  <li><a href="https://wonjoon.gitbook.io/joons-til/techtalk-review/woowacon/2024/api-gateway-pattern">(25.07.07) [리뷰] API게이트웨이 패턴</a></li>
   <li><a href="https://wonjoon.gitbook.io/joons-til/performance-test-study/leetcode-project/k6-load-test/load-test-submission-api">(25.07.02) 고확장성 부하테스트</a></li>
   <li><a href="https://wonjoon.gitbook.io/joons-til/performance-test-study/leetcode-project/troubleshooting/throughput-beyond-vcpu">(25.06.30) 트러블슈팅: vCPU이상의 처리량</a></li>
   <li><a href="https://wonjoon.gitbook.io/joons-til/ai/vibecoding/project-development-using-cursor-and-mcp">(25.06.24) Cursor와 MCP로 프로젝트 개발하기</a></li>
-  <li><a href="https://wonjoon.gitbook.io/joons-til/performance-test-study/leetcode-project/troubleshooting/rabbitmq-ackmode-none">(25.06.23) 트러블슈팅: ackMode = ‘NONE’</a></li>
-  
 </ul>
 
 <details>
 <summary>더 보기</summary>
 
 <ul>
+  <li><a href="https://wonjoon.gitbook.io/joons-til/performance-test-study/leetcode-project/troubleshooting/rabbitmq-ackmode-none">(25.06.23) 트러블슈팅: ackMode = ‘NONE’</a></li>
   <li><a href="https://wonjoon.gitbook.io/joons-til/techtalk-review/woowacon/2024/architecture-improvement-after-kafka-failure">(25.06.23) [리뷰]Kafka를 이용하는 메시지 플랫폼에서 장애를 겪으며 아키텍처를 개선한 이야기</a></li>
   <li><a href="https://wonjoon.gitbook.io/joons-til/performance-test-study/leetcode-project/k6-load-test/load-test-apis">(25.06.20) 부하 상황에서 API 병목 진단 및 대응 전략 분석</a></li>
   <li><a href="https://wonjoon.gitbook.io/joons-til/performance-test-study/leetcode-project/jpa-osiv">(25.06.14) JPA - OSIV와 DB 커넥션풀</a></li>
