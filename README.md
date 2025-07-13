@@ -24,7 +24,7 @@
 ### Recent
 <!--   <li><a href="__URL__">___Title___</a></li> -->
 <ul>
-  <li><a href="https://wonjoon.gitbook.io/joons-til/twitter-cassandra-fan-out-on-write">카산드라와 Fan-out on Write 전략</a></li>
+  <li><a href="https://wonjoon.gitbook.io/joons-til/twitter-cassandra-fan-out-on-write">(25.07.14) 카산드라와 Fan-out on Write 전략</a></li>
   <li><a href="https://wonjoon.gitbook.io/joons-til/techtalk-review/woowacon/2024/api-gateway-pattern">(25.07.07) [리뷰] API게이트웨이 패턴</a></li>
   <li><a href="https://wonjoon.gitbook.io/joons-til/performance-test-study/leetcode-project/k6-load-test/load-test-submission-api">(25.07.02) 고확장성 부하테스트</a></li>
   <li><a href="https://wonjoon.gitbook.io/joons-til/performance-test-study/leetcode-project/troubleshooting/throughput-beyond-vcpu">(25.06.30) 트러블슈팅: vCPU이상의 처리량</a></li>
