@@ -24,16 +24,17 @@
 ### Recent
 <!--   <li><a href="__URL__">___Title___</a></li> -->
 <ul>
+  <li><a href="https://wonjoon.gitbook.io/joons-til/techtalk-review/woowacon/2024/region-clustering-using-delvery-data">(25.07.28) [리뷰] 배달 데이터를 활용해 최적의 지역 클러스터링하기</a></li>
   <li><a href="https://wonjoon.gitbook.io/joons-til/techtalk-review/woowacon/2024/data-concurrency-optimization-with-kafka-request-reply-pattern">(25.07.21) [리뷰] Kafka 기반 대규모 데이터 동시성 최적화: Request-Reply 패턴 활용 사례</a></li>
   <li><a href="https://wonjoon.gitbook.io/joons-til/twitter-table-structure-guide">(25.07.17) 트위터의 카산드라 테이블 설계 방식과 하이브리드 Fan-out 전략</a></li>
   <li><a href="https://wonjoon.gitbook.io/joons-til/techtalk-review/woowacon/2024/ddd.-thats-not-how-you-do-it">(25.07.14) [리뷰] DDD, 그거 그렇게 하는 거 아닌데</a></li>
-  <li><a href="https://wonjoon.gitbook.io/joons-til/techtalk-review/woowacon/2024/api-gateway-pattern">(25.07.07) [리뷰] API게이트웨이 패턴</a></li>
 </ul>
 
 <details>
 <summary>더 보기</summary>
 
 <ul>
+  <li><a href="https://wonjoon.gitbook.io/joons-til/techtalk-review/woowacon/2024/api-gateway-pattern">(25.07.07) [리뷰] API게이트웨이 패턴</a></li>
   <li><a href="https://wonjoon.gitbook.io/joons-til/performance-test-study/leetcode-project/k6-load-test/load-test-submission-api">(25.07.02) 고확장성 부하테스트</a></li>
   <li><a href="https://wonjoon.gitbook.io/joons-til/performance-test-study/leetcode-project/troubleshooting/throughput-beyond-vcpu">(25.06.30) 트러블슈팅: vCPU이상의 처리량</a></li>
   <li><a href="https://wonjoon.gitbook.io/joons-til/ai/vibecoding/project-development-using-cursor-and-mcp">(25.06.24) Cursor와 MCP로 프로젝트 개발하기</a></li>
