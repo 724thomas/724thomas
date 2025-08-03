@@ -23,6 +23,7 @@
 
 
 ### ToyProject
+- Ecommerce(Ecom): [Redisson과 JPA 비관적 락을 활용한 이중 락 기반 동시성 제어 시스템 설계 및 구현](https://wonjoon.gitbook.io/joons-til/f-lab/ecom-ecommerce-project/design-and-implementation-of-a-dual-lock-concurrency-control-system-using-redisson-and-jpa-pessimist)
 - Tweeter Clone: [Fan-out on Write 전략 최적화. MySql 샤딩, Cassandra 성능 비교 분석](https://app.gitbook.com/o/f1ibWIOWJeUMovCa39QR/s/fV6clXG953LqFieNgWUf/k6-optimization-project/tweeter-project/twitter-clone-system-performance-analysis-report)
 - Tweeter Clone: [트윗 생성 전략. Fan-out on Write, 배치, 비동기 병렬처리, 재시도 복구처리](https://app.gitbook.com/o/f1ibWIOWJeUMovCa39QR/s/fV6clXG953LqFieNgWUf/k6-optimization-project/tweeter-project/createtweet-strategy)
 - Leetcode Clone: [문제 목록 가져오기 최적화. Cursor, Paging 비교 분석](https://wonjoon.gitbook.io/joons-til/k6-optimization-project/leetcode-project/optimization1-java-application/get-problemlist)
