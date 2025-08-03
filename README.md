@@ -16,13 +16,11 @@
 
 ### Experience
 - <b>Graphic</b> - [Backend Developer Intern](https://wonjoon.gitbook.io/joons-til/reviews/graphic-intern-review) <i>(2024.01 ~ 2024.05)</i>
+    - [조회 성능 개선 과정: 쿼리 분석과 Materialized View](https://wonjoon.gitbook.io/joons-til/database/enhancing-query-performance-and-stability-user-list)
+    - [알림시스템 개선 과정: 제3 서비스 문제 발생시 신뢰도 영향 최소화](https://wonjoon.gitbook.io/joons-til/database/ensuring-data-consistency-atomicity-and-ux-optimization-feat.firebase)
+    - [데이터 마이그레이션 프로세스 설계: 서버 로그 아카이빙 파이프라인](https://wonjoon.gitbook.io/joons-til/aws/server-log-archive-pipeline)
 - <b>KakaoBrain</b> - [Backend Developer Intern](https://wonjoon.gitbook.io/joons-til/reviews/kakao-brain-pathfinder-review) <i>(2023.06 ~ 2023.08)</i>
 
-### Articles
-- [조회 성능 개선 과정: 쿼리 분석과 Materialized View](https://wonjoon.gitbook.io/joons-til/database/enhancing-query-performance-and-stability-user-list)
-- [알림시스템 개선 과정: 제3 서비스 문제 발생시 신뢰도 영향 최소화](https://wonjoon.gitbook.io/joons-til/database/ensuring-data-consistency-atomicity-and-ux-optimization-feat.firebase)
-- [코드멘토: 프로젝트 설계와 개선 과정](https://wonjoon.gitbook.io/joons-til/toy-project/codementor/project-improvement-architectural-enhancements)
-- [데이터 마이그레이션 프로세스 설계: 서버 로그 아카이빙 파이프라인](https://wonjoon.gitbook.io/joons-til/aws/server-log-archive-pipeline)
 
 ### ToyProject
 - Tweeter Clone: [Fan-out on Write 전략 최적화. MySql 샤딩, Cassandra 성능 비교 분석](https://app.gitbook.com/o/f1ibWIOWJeUMovCa39QR/s/fV6clXG953LqFieNgWUf/k6-optimization-project/tweeter-project/twitter-clone-system-performance-analysis-report)
@@ -31,8 +29,9 @@
 - Leetcode Clone: [풀이 제출 API 촤적화. 캐싱 & 멱등성 도입 성능 비교 분석](https://wonjoon.gitbook.io/joons-til/k6-optimization-project/leetcode-project/optimization1-java-application/post-submit-problem)
 - Leetcode Clone: [리더보드 조회 API 최적화. DB인덱스, Redis SortedSet 비교 분석](https://wonjoon.gitbook.io/joons-til/k6-optimization-project/leetcode-project/optimization1-java-application/get-leaderboard)
 - Leetcode Clone: [10,000명의 동시 제출 처리를 위한 시뮬레이션 및 아키텍처 개선 과정](https://wonjoon.gitbook.io/joons-til/k6-optimization-project/leetcode-project/k6-load-test/load-test-submission-api)
+- CodeMentor: [코드멘토: 프로젝트 설계와 개선 과정](https://wonjoon.gitbook.io/joons-til/toy-project/codementor/project-improvement-architectural-enhancements)
 
-### Recent
+### Articles
 <!--   <li><a href="__URL__">___Title___</a></li> -->
 <ul>
   <li><a href="https://wonjoon.gitbook.io/joons-til/techtalk-review/woowacon/2024/region-clustering-using-delvery-data">(25.07.28) [리뷰] 배달 데이터를 활용해 최적의 지역 클러스터링하기</a></li>
