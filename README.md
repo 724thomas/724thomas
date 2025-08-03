@@ -21,6 +21,14 @@
 - [코드멘토: 프로젝트 설계와 개선 과정](https://wonjoon.gitbook.io/joons-til/toy-project/codementor/project-improvement-architectural-enhancements)
 - [데이터 마이그레이션 프로세스 설계: 서버 로그 아카이빙 파이프라인](https://wonjoon.gitbook.io/joons-til/aws/server-log-archive-pipeline)
 
+### ToyProject
+- Tweeter Clone: [Fan-out on Write 전략 최적화. MySql 샤딩, Cassandra 성능 비교 분석](https://app.gitbook.com/o/f1ibWIOWJeUMovCa39QR/s/fV6clXG953LqFieNgWUf/k6-optimization-project/tweeter-project/twitter-clone-system-performance-analysis-report)
+- Tweeter Clone: [트윗 생성 전략. Fan-out on Write, 배치, 비동기 병렬처리, 재시도 복구처리](https://app.gitbook.com/o/f1ibWIOWJeUMovCa39QR/s/fV6clXG953LqFieNgWUf/k6-optimization-project/tweeter-project/createtweet-strategy)
+- Leetcode Clone: [문제 목록 가져오기 최적화. Cursor, Paging 비교 분석](https://wonjoon.gitbook.io/joons-til/k6-optimization-project/leetcode-project/optimization1-java-application/get-problemlist)
+- Leetcode Clone: [풀이 제출 API 촤적화. 캐싱 & 멱등성 도입 성능 비교 분석](https://wonjoon.gitbook.io/joons-til/k6-optimization-project/leetcode-project/optimization1-java-application/post-submit-problem)
+- Leetcode Clone: [리더보드 조회 API 최적화. DB인덱스, Redis SortedSet 비교 분석](https://wonjoon.gitbook.io/joons-til/k6-optimization-project/leetcode-project/optimization1-java-application/get-leaderboard)
+- Leetcode Clone: [10,000명의 동시 제출 처리를 위한 시뮬레이션 및 아키텍처 개선 과정](https://wonjoon.gitbook.io/joons-til/k6-optimization-project/leetcode-project/k6-load-test/load-test-submission-api)
+
 ### Recent
 <!--   <li><a href="__URL__">___Title___</a></li> -->
 <ul>
