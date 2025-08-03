@@ -34,7 +34,7 @@
     - [문제 목록 가져오기 최적화. Cursor, Paging 비교 분석](https://wonjoon.gitbook.io/joons-til/k6-optimization-project/leetcode-project/optimization1-java-application/get-problemlist)
     - [풀이 제출 API 촤적화. 캐싱 & 멱등성 도입 성능 비교 분석](https://wonjoon.gitbook.io/joons-til/k6-optimization-project/leetcode-project/optimization1-java-application/post-submit-problem)
     - [리더보드 조회 API 최적화. DB인덱스, Redis SortedSet 비교 분석](https://wonjoon.gitbook.io/joons-til/k6-optimization-project/leetcode-project/optimization1-java-application/get-leaderboard)
-    - [10,000명의 동시 제출 처리를 위한 시뮬레이션 및 아키텍처 개선 과정](https://wonjoon.gitbook.io/joons-til/k6-optimization-project/leetcode-project/k6-load-test/load-test-submission-api)
+    - [10,000명의 동시 제출 처리를 위한 부하 시뮬레이션 및 아키텍처 개선 과정](https://wonjoon.gitbook.io/joons-til/k6-optimization-project/leetcode-project/k6-load-test/load-test-submission-api)
       
 - CodeMentor: 코테 플렛폼 개발 [📂Repository](https://github.com/CodeMentor-CodingSite/JavaServer-microservice)
     - [프로젝트 설계와 개선 과정](https://wonjoon.gitbook.io/joons-til/toy-project/codementor/project-improvement-architectural-enhancements)
