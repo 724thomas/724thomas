@@ -39,7 +39,7 @@
 ### Articles
 <!--   <li><a href="__URL__">___Title___</a></li> -->
 <ul>
-  <li><a href="https://wonjoon.gitbook.io/joons-til/techtalk-review/woowacon/2024/using-distributed-locks-for-inventory-transfers-in-wms">WMS 재고 이관을 위한 분산 락 사용기</a></li>
+  <li><a href="https://wonjoon.gitbook.io/joons-til/techtalk-review/woowacon/2024/using-distributed-locks-for-inventory-transfers-in-wms">(25.08.04) [리뷰] WMS 재고 이관을 위한 분산 락 사용기</a></li>
   <li><a href="https://wonjoon.gitbook.io/joons-til/techtalk-review/woowacon/2024/region-clustering-using-delvery-data">(25.07.28) [리뷰] 배달 데이터를 활용해 최적의 지역 클러스터링하기</a></li>
   <li><a href="https://wonjoon.gitbook.io/joons-til/techtalk-review/woowacon/2024/data-concurrency-optimization-with-kafka-request-reply-pattern">(25.07.21) [리뷰] Kafka 기반 대규모 데이터 동시성 최적화: Request-Reply 패턴 활용 사례</a></li>
   <li><a href="https://wonjoon.gitbook.io/joons-til/twitter-table-structure-guide">(25.07.17) 트위터의 카산드라 테이블 설계 방식과 하이브리드 Fan-out 전략</a></li>
