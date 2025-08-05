@@ -21,6 +21,7 @@
     - [알림시스템 개선 과정: 제3 서비스 문제 발생시 신뢰도 영향 최소화](https://wonjoon.gitbook.io/joons-til/database/ensuring-data-consistency-atomicity-and-ux-optimization-feat.firebase)
     - [데이터 마이그레이션 프로세스 설계: 서버 로그 아카이빙 파이프라인](https://wonjoon.gitbook.io/joons-til/aws/server-log-archive-pipeline)
 - <b>KakaoBrain</b> - [Backend Developer Intern](https://wonjoon.gitbook.io/joons-til/reviews/kakao-brain-pathfinder-review) <i>(2023.06 ~ 2023.08)</i>
+    - [사내 쇼케이스 발표](https://www.youtube.com/watch?v=tfrKPQ9cBIY&ab_channel=JoonC%28joon%29)
 
 
 ### ToyProject
