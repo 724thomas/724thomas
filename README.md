@@ -76,6 +76,10 @@
 
 </details>
 
+### OS Contributions
+- Apache/gravitino - https://github.com/apache/gravitino/pull/1359
+- Eclipse/jkube - https://github.com/eclipse-jkube/jkube/pull/2547
+
 ### Programming Stats
 <!--
 <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=724thomas&show_icons=true&bg_color=00000000&border_color=00000000"></img>
