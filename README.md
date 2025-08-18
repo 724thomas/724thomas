@@ -39,18 +39,19 @@
     - [프로젝트 설계와 개선 과정](https://wonjoon.gitbook.io/joons-til/toy-project/codementor/project-improvement-architectural-enhancements)
 
 ### Articles
-<!--   <li><a href="__URL__">___Title___</a></li> -->
+<!--   <li><a href="__URL__"></a></li> -->
 <ul>
+  <li><a href="https://wonjoon.gitbook.io/joons-til/techtalk-review/slash-24/safe-currency-exchange-in-distributed-environments-with-compensating-transactions">(25.08.18) [리뷰] 보상 트랜잭션으로 분산 환경에서도 안전하게 환전하기</a></li>
   <li><a href="https://wonjoon.gitbook.io/joons-til/techtalk-review/slash-24/stable-operation-of-large-scale-user-based-mydata-service">(25.08.11) [리뷰] 대규모 사용자 기반의 마이데이터 서비스 안정적으로 운영하기</a></li>
   <li><a href="https://wonjoon.gitbook.io/joons-til/techtalk-review/woowacon/2024/using-distributed-locks-for-inventory-transfers-in-wms">(25.08.04) [리뷰] WMS 재고 이관을 위한 분산 락 사용기</a></li>
   <li><a href="https://wonjoon.gitbook.io/joons-til/techtalk-review/woowacon/2024/region-clustering-using-delvery-data">(25.07.28) [리뷰] 배달 데이터를 활용해 최적의 지역 클러스터링하기</a></li>
-  <li><a href="https://wonjoon.gitbook.io/joons-til/techtalk-review/woowacon/2024/data-concurrency-optimization-with-kafka-request-reply-pattern">(25.07.21) [리뷰] Kafka 기반 대규모 데이터 동시성 최적화: Request-Reply 패턴 활용 사례</a></li>
 </ul>
 
 <details>
 <summary>더 보기</summary>
 
 <ul>
+  <li><a href="https://wonjoon.gitbook.io/joons-til/techtalk-review/woowacon/2024/data-concurrency-optimization-with-kafka-request-reply-pattern">(25.07.21) [리뷰] Kafka 기반 대규모 데이터 동시성 최적화: Request-Reply 패턴 활용 사례</a></li>
   <li><a href="https://wonjoon.gitbook.io/joons-til/twitter-table-structure-guide">(25.07.17) 트위터의 카산드라 테이블 설계 방식과 하이브리드 Fan-out 전략</a></li>
   <li><a href="https://wonjoon.gitbook.io/joons-til/techtalk-review/woowacon/2024/ddd.-thats-not-how-you-do-it">(25.07.14) [리뷰] DDD, 그거 그렇게 하는 거 아닌데</a></li>
   <li><a href="https://wonjoon.gitbook.io/joons-til/techtalk-review/woowacon/2024/api-gateway-pattern">(25.07.07) [리뷰] API게이트웨이 패턴</a></li>
