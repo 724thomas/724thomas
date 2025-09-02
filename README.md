@@ -16,11 +16,12 @@
 - 🚀 currently working as a **backend engineer**
 
 ### Experience
-- <b>Graphic</b> - [Backend Developer Intern](https://wonjoon.gitbook.io/joons-til/reviews/graphic-intern-review) <i>(2024.01 ~ 2024.05)</i>
+- <b>Trustay</b> - [Backend Engineer]
+- <b>Graphic</b> - [Backend Engineer Intern](https://wonjoon.gitbook.io/joons-til/reviews/graphic-intern-review) <i>(2024.01 ~ 2024.05)</i>
     - [조회 성능 개선 과정: 쿼리 분석과 Materialized View](https://wonjoon.gitbook.io/joons-til/database/enhancing-query-performance-and-stability-user-list)
     - [알림시스템 개선 과정: 제3 서비스 문제 발생시 신뢰도 영향 최소화](https://wonjoon.gitbook.io/joons-til/database/ensuring-data-consistency-atomicity-and-ux-optimization-feat.firebase)
     - [데이터 마이그레이션 프로세스 설계: 서버 로그 아카이빙 파이프라인](https://wonjoon.gitbook.io/joons-til/aws/server-log-archive-pipeline)
-- <b>KakaoBrain</b> - [Backend Developer Intern](https://wonjoon.gitbook.io/joons-til/reviews/kakao-brain-pathfinder-review) <i>(2023.06 ~ 2023.08)</i>
+- <b>KakaoBrain</b> - [Backend Engineer Intern](https://wonjoon.gitbook.io/joons-til/reviews/kakao-brain-pathfinder-review) <i>(2023.06 ~ 2023.08)</i>
     - [LLM 기반 서술형 문제 첨삭 서비스 백엔드 개발. 사내 쇼케이스 발표영상](https://www.youtube.com/watch?v=tfrKPQ9cBIY&ab_channel=JoonC%28joon%29)
 
 
