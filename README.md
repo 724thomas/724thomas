@@ -16,7 +16,7 @@
 - 🚀 currently working as a **backend engineer**
 
 ### Experience
-- <b>Trustay</b> - Backend Engineer
+- <b>Trustay</b> - Backend Engineer <i>(2025.09 ~ )</i>
 - Graphic - [Backend Engineer Intern](https://wonjoon.gitbook.io/joons-til/reviews/graphic-intern-review) <i>(2024.01 ~ 2024.05)</i>
     - [조회 성능 개선 과정: 쿼리 분석과 Materialized View](https://wonjoon.gitbook.io/joons-til/database/enhancing-query-performance-and-stability-user-list)
     - [알림시스템 개선 과정: 제3 서비스 문제 발생시 신뢰도 영향 최소화](https://wonjoon.gitbook.io/joons-til/database/ensuring-data-consistency-atomicity-and-ux-optimization-feat.firebase)
