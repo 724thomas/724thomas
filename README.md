@@ -1,8 +1,8 @@
 <h2>WonJoon Choi</h2>          
 
 - 🔍 [Gitbook 블로그](https://wonjoon.gitbook.io/joons-til/)
-- 🧩 [Notion 이력서](https://wonjoonthomaschoi.notion.site/140addeab35680c79943e5530ad196c8)
-- 🏆 [Notion 포트폴리오](https://wonjoonthomaschoi.notion.site/140addeab3568150b6ded356ea199e48)
+- 🧩 Notion 이력서
+- 🏆 Notion 포트폴리오
 
 <div>
 <!--    <a href="https://wakatime.com/@0fdda08b-5c79-4fbb-9158-8f978430c932"><img src="https://wakatime.com/badge/user/0fdda08b-5c79-4fbb-9158-8f978430c932.svg" alt="Total time coded since Jan 21 2023" /></a> -->
