@@ -44,10 +44,11 @@
 ### Articles
 <!--   <li><a href="__URL__">__제목__</a></li> -->
 <ul>
+  <li><a href="https://wonjoon.gitbook.io/joons-til/kotlin/beginner-kotlin-for-java-developer/2.-null-safety">(25.09.10) 코틀린 - 널처리와 Null-safety</a></li>
+  <li><a href="https://wonjoon.gitbook.io/joons-til/kotlin/beginner-kotlin-for-java-developer/1.-variable-and-type-system">(25.09.09) 코틀린 - 변수와 타입 시스템</a></li>
   <li><a href="https://wonjoon.gitbook.io/joons-til/techtalk-review/slash-24/eliminating-unnecessary-polling-with-sse-server-sent-events-push">(25.09.08) [리뷰] SSE 이벤트 푸쉬로 불필요한 Polling 제거하기</a></li>
   <li><a href="https://wonjoon.gitbook.io/joons-til/spring/hybrid-rbac-role-+-permission">(25.08.26) Role & Privilege 기반 접근 제어(R&PBAC) 설계와 구현</a></li>
-  <li><a href="https://app.gitbook.com/o/f1ibWIOWJeUMovCa39QR/s/fV6clXG953LqFieNgWUf/techtalk-review/slash-24/improving-toss-securities-ranking-service-architecture-with-clickhouse">(25.08.25) [리뷰] ClickHouse로 토스증권 랭킹 서비스 구조 개선하기</a></li>
-  <li><a href="https://wonjoon.gitbook.io/joons-til/techtalk-review/slash-24/safe-currency-exchange-in-distributed-environments-with-compensating-transactions">(25.08.18) [리뷰] 보상 트랜잭션으로 분산 환경에서도 안전하게 환전하기</a></li>
+
   
   
 
@@ -57,6 +58,8 @@
 <ul>
   
 </ul>
+  <li><a href="https://app.gitbook.com/o/f1ibWIOWJeUMovCa39QR/s/fV6clXG953LqFieNgWUf/techtalk-review/slash-24/improving-toss-securities-ranking-service-architecture-with-clickhouse">(25.08.25) [리뷰] ClickHouse로 토스증권 랭킹 서비스 구조 개선하기</a></li>
+  <li><a href="https://wonjoon.gitbook.io/joons-til/techtalk-review/slash-24/safe-currency-exchange-in-distributed-environments-with-compensating-transactions">(25.08.18) [리뷰] 보상 트랜잭션으로 분산 환경에서도 안전하게 환전하기</a></li>
   <li><a href="https://wonjoon.gitbook.io/joons-til/techtalk-review/slash-24/stable-operation-of-large-scale-user-based-mydata-service">(25.08.11) [리뷰] 대규모 사용자 기반의 마이데이터 서비스 안정적으로 운영하기</a></li>
   <li><a href="https://wonjoon.gitbook.io/joons-til/techtalk-review/woowacon/2024/using-distributed-locks-for-inventory-transfers-in-wms">(25.08.04) [리뷰] WMS 재고 이관을 위한 분산 락 사용기</a></li>
   <li><a href="https://wonjoon.gitbook.io/joons-til/techtalk-review/woowacon/2024/region-clustering-using-delvery-data">(25.07.28) [리뷰] 배달 데이터를 활용해 최적의 지역 클러스터링하기</a></li>
