@@ -26,7 +26,7 @@
 
 
 ### ToyProject
-- Ecom: E-commerce 플랫폼 (진행중) [📂 Repository](https://github.com/f-lab-edu/ECom)
+- Ecom: E-commerce 플랫폼 [📂 Repository](https://github.com/f-lab-edu/ECom)
     - [Redisson과 JPA 비관적 락을 활용한 이중 락 기반 동시성 제어 시스템 설계 및 구현](https://wonjoon.gitbook.io/joons-til/f-lab/ecom-ecommerce-project/design-and-implementation-of-a-dual-lock-concurrency-control-system-using-redisson-and-jpa-pessimist)
 - Tweeter Clone: 트워터 핵심 API 구현 (진행중) [📂 Repository](https://github.com/Collaborative-AI-SystemDesign/twitter-clone)
     - [Fan-out on Write 전략 최적화. MySql 샤딩, Cassandra 성능 비교 분석](https://app.gitbook.com/o/f1ibWIOWJeUMovCa39QR/s/fV6clXG953LqFieNgWUf/k6-optimization-project/tweeter-project/twitter-clone-system-performance-analysis-report)
