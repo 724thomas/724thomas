@@ -1,4 +1,4 @@
-<h2>WonJoon Choi</h2>          
+<h2>WonJoon Choi</h2>           
 
 - 🔍 [Gitbook 블로그](https://wonjoon.gitbook.io/joons-til/)
 - 🧩 Notion 이력서
