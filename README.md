@@ -45,11 +45,9 @@
 <!--   <li><a href="__URL__">__제목__</a></li> -->
 <ul>
     <li><a href="https://wonjoon.gitbook.io/joons-til/books/the-pragmatic-programmer/4-pragmatic-paranoia">(25.11.13) [실용주의 프로그래머] 4장. 실용주의 편집증</a></li>
+    <li><a href="https://wonjoon.gitbook.io/joons-til/trustay/documentation/channel-notification-display-time-design">(25.11.12) [트러스테이] 알림센터 알림 고도화 (예약 알림)</a></li>
     <li><a href="https://wonjoon.gitbook.io/joons-til/techtalk-review/dangeun-tech/the-kafka-newbies-migration">(25.11.11) [리뷰] Kafka 뉴비의 마이그레이션, 산 넘고 물 건너</a></li>
     <li><a href="https://wonjoon.gitbook.io/joons-til/books/the-pragmatic-programmer/3-basic-tools">(25.11.06) [실용주의 프로그래머] 3장. 기본 도구</a></li>
-    <li><a href="https://wonjoon.gitbook.io/joons-til/techtalk-review/dangeun-tech/on-call.-alarm-is-killing-me">(25.11.03) [리뷰] 온콜, 알림만 보다가 죽겠어요</a></li>
-
-
 
 <details>
 <summary>더 보기</summary>
@@ -57,6 +55,8 @@
 <ul>
   
 </ul>
+    
+    <li><a href="https://wonjoon.gitbook.io/joons-til/techtalk-review/dangeun-tech/on-call.-alarm-is-killing-me">(25.11.03) [리뷰] 온콜, 알림만 보다가 죽겠어요</a></li>
     <li><a href="https://wonjoon.gitbook.io/joons-til/books/the-pragmatic-programmer/2-pragmatic-approach">(25.10.30) [실용주의 프로그래머] 2장. 실용주의 접근법</a></li>
     <li><a href="https://wonjoon.gitbook.io/joons-til/books/the-pragmatic-programmer/1-pragmatic-philosophy">(25.10.23) [실용주의 프로그래머] 1장. 실용주의 철학</a></li>
     <li><a href="https://wonjoon.gitbook.io/joons-til/techtalk-review/slash-toss/this-is-how-toss-use-gateway">(25.10.20) [리뷰] 토스는 Gateway 이렇게 씁니다</a></li>
