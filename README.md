@@ -45,6 +45,7 @@
 ### Articles
 <!--   <li><a href="__URL__">__제목__</a></li> -->
 <ul>
+  <li><a href="https://wonjoon.gitbook.io/joons-til/books/the-pragmatic-programmer/6-concurrency">(25.11.27) [실용주의 프로그래머] 6장. 동시성</a></li>
   <li><a href="https://wonjoon.gitbook.io/joons-til/books/the-pragmatic-programmer/5-bend-or-break">(25.11.20) [실용주의 프로그래머] 5장. 구부러지거나 부러지거나</a></li>
   <li><a href="https://wonjoon.gitbook.io/joons-til/trustay/documentation/git-branch-contamination-and-recovery-case-study-report">(25.11.19) [트러스테이] Git 브랜치 오염 및 복구 사례 분석 보고서</a></li>
   <li><a href="https://wonjoon.gitbook.io/joons-til/books/the-pragmatic-programmer/4-pragmatic-paranoia">(25.11.13) [실용주의 프로그래머] 4장. 실용주의 편집증</a></li>
