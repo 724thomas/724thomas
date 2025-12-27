@@ -45,7 +45,6 @@
 ### Articles
 <!--   <li><a href="__URL__">__제목__</a></li> -->
 <ul>
-  <li><a href="https://wonjoon.gitbook.io/joons-til/books/the-pragmatic-programmer/9-pragmatic-projects">(25.12.18) [실용주의 프로그래머] 9장. 실용주의 프로젝트[시aㅅ</li>
   <li><a href="https://wonjoon.gitbook.io/joons-til/books/the-pragmatic-programmer/8-before-the-project">(25.12.11) [실용주의 프로그래머] 8장. 프로젝트 전에</a></li>
   <li><a href="https://wonjoon.gitbook.io/joons-til/techtalk-review/slash24-toss/toss-payments-settlement-legacy-system-overhaul-a-review">(25.12.08) [리뷰] 토스페이먼츠 정산 레거시 시스템 개편기 리뷰</a></li>
   <li><a href="https://wonjoon.gitbook.io/joons-til/infra/what-is-argocd">(25.12.05) ArgoCD란?</a></li>
