@@ -45,6 +45,7 @@
 ### Articles
 <!--   <li><a href="__URL__">__제목__</a></li> -->
 <ul>
+  <li><a href="https://wonjoon.gitbook.io/joons-til/trustay/documentation/connection-pool-exhaustion-caused-by-poor-transaction-design">[트러스테이] 트랜잭션 설계 문제로 발생한 커넥션 풀 고갈 이슈와 해결 과정 정리</a></li>
   <li><a href="https://wonjoon.gitbook.io/joons-til/books/the-pragmatic-programmer/8-before-the-project">(25.12.11) [실용주의 프로그래머] 8장. 프로젝트 전에</a></li>
   <li><a href="https://wonjoon.gitbook.io/joons-til/techtalk-review/slash24-toss/toss-payments-settlement-legacy-system-overhaul-a-review">(25.12.08) [리뷰] 토스페이먼츠 정산 레거시 시스템 개편기 리뷰</a></li>
   <li><a href="https://wonjoon.gitbook.io/joons-til/infra/what-is-argocd">(25.12.05) ArgoCD란?</a></li>
