@@ -45,12 +45,12 @@
 ### Articles
 <!--   <li><a href="__URL__">__제목__</a></li> -->
 <ul>
-  <li><a href="https://wonjoon.gitbook.io/joons-til/books/tobys-spring-vol1/1.-object-and-relation">(26.01.11) [토비의 스프링 vol.1] 오브젝트와 의존관</a></li>
+  <li><a href="https://wonjoon.gitbook.io/joons-til/books/tobys-spring-vol1/2.-test">(26.01.18) [토비의 스프링 vol.1] 테스트 </a></li>
+  <li><a href="https://wonjoon.gitbook.io/joons-til/books/tobys-spring-vol1/1.-object-and-relation">(26.01.11) [토비의 스프링 vol.1] 오브젝트와 의존관계</a></li>
   <li><a href="https://wonjoon.gitbook.io/joons-til/books/the-pragmatic-programmer/8-before-the-project">(25.12.11) [실용주의 프로그래머] 8장. 프로젝트 전에</a></li>
   <li><a href="https://wonjoon.gitbook.io/joons-til/techtalk-review/slash24-toss/toss-payments-settlement-legacy-system-overhaul-a-review">(25.12.08) [리뷰] 토스페이먼츠 정산 레거시 시스템 개편기 리뷰</a></li>
   <li><a href="https://wonjoon.gitbook.io/joons-til/infra/what-is-argocd">(25.12.05) ArgoCD란?</a></li>
-  <li><a href="https://wonjoon.gitbook.io/joons-til/books/the-pragmatic-programmer/7-while-you-are-coding">(25.12.04) [실용주의 프로그래머] 7장. 동시성</a></li>
-  
+
 
 <details>
 <summary>더 보기</summary>
@@ -58,6 +58,7 @@
 <ul>
   
 </ul>
+  <li><a href="https://wonjoon.gitbook.io/joons-til/books/the-pragmatic-programmer/7-while-you-are-coding">(25.12.04) [실용주의 프로그래머] 7장. 동시성</a></li>
   <li><a href="https://wonjoon.gitbook.io/joons-til/techtalk-review/slash-toss/how-we-rebuilt-a-20-year-old-payment-system-from-the-ground-up">(25.12.01) [리뷰] 20년 묵은 결제 시스템, 어떻게 갈아엎었나?</a></li>
   <li><a href="https://wonjoon.gitbook.io/joons-til/books/the-pragmatic-programmer/6-concurrency">(25.11.27) [실용주의 프로그래머] 6장. 동시성</a></li>
   <li><a href="https://wonjoon.gitbook.io/joons-til/books/the-pragmatic-programmer/5-bend-or-break">(25.11.20) [실용주의 프로그래머] 5장. 구부러지거나 부러지거나</a></li>
