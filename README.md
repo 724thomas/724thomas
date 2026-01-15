@@ -60,6 +60,7 @@
 </ul>
   <li><a href="https://wonjoon.gitbook.io/joons-til/books/the-pragmatic-programmer/7-while-you-are-coding">(25.12.04) [실용주의 프로그래머] 7장. 동시성</a></li>
   <li><a href="https://wonjoon.gitbook.io/joons-til/techtalk-review/slash-toss/how-we-rebuilt-a-20-year-old-payment-system-from-the-ground-up">(25.12.01) [리뷰] 20년 묵은 결제 시스템, 어떻게 갈아엎었나?</a></li>
+  <li><a href="https://wonjoon.gitbook.io/joons-til/trustay/documentation/avoiding-spatial-index-for-trade-off">(25.11.29) [트러스테이] Spatial Index를 쓰지 않은 이유: 정확도 vs 성능 트레이드 오프</a></li>
   <li><a href="https://wonjoon.gitbook.io/joons-til/books/the-pragmatic-programmer/6-concurrency">(25.11.27) [실용주의 프로그래머] 6장. 동시성</a></li>
   <li><a href="https://wonjoon.gitbook.io/joons-til/books/the-pragmatic-programmer/5-bend-or-break">(25.11.20) [실용주의 프로그래머] 5장. 구부러지거나 부러지거나</a></li>
   <li><a href="https://wonjoon.gitbook.io/joons-til/books/the-pragmatic-programmer/4-pragmatic-paranoia">(25.11.13) [실용주의 프로그래머] 4장. 실용주의 편집증</a></li>
