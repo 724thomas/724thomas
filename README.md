@@ -20,6 +20,7 @@
 - <b>Trustay</b> - Backend Engineer / Nockplace Team<i>(2025.09 ~ )</i>
     - [알림 · 푸시 시스템 개발 과정](https://wonjoon.gitbook.io/joons-til/trustay/documentation/evolution-of-notification-and-push-delivery-system)
     - [대량 알림 생성 파이프라인 재설계](https://wonjoon.gitbook.io/joons-til/trustay/documentation/redesigning-a-bulk-notification-creation-pipeline-with-an-outbox-based-structure)
+    - [도메인 정합성 확보: 알림 수신 주체를 유저/채널 -> 채널 기준으로 통일하여 알림 주체 혼란 제거](https://wonjoon.gitbook.io/joons-til/trustay/documentation/eliminating-domain-confusion-in-a-notification-system)
     - [중복 알림 발송 이슈 해결: Redis 기반 Rate Limit 도입](https://wonjoon.gitbook.io/joons-til/trustay/documentation/resolving-duplicate-notification-bursts-with-redis-based-rate-limiting)
     - [대량 위치 기반 조회에서 Spatial Index를 쓰지 않은 이유: 정확도 vs 성능 트레이드 오프](https://wonjoon.gitbook.io/joons-til/trustay/documentation/avoiding-spatial-index-for-trade-off)
 - Graphic - [Backend Engineer Intern](https://wonjoon.gitbook.io/joons-til/reviews/graphic-intern-review) <i>(2024.01 ~ 2024.05)</i>
