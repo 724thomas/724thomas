@@ -54,9 +54,8 @@
   <li><a href="https://wonjoon.gitbook.io/joons-til/books/tobys-spring-vol1/2.-test">(26.01.18) [토비의 스프링 vol.1] 2장. 테스트 </a></li>
   <li><a href="https://wonjoon.gitbook.io/joons-til/books/tobys-spring-vol1/1.-object-and-relation">(26.01.11) [토비의 스프링 vol.1] 1장. 오브젝트와 의존관계</a></li>
   <li><a href="https://wonjoon.gitbook.io/joons-til/books/the-pragmatic-programmer/8-before-the-project">(25.12.11) [실용주의 프로그래머] 8장. 프로젝트 전에</a></li>
-  <li><a href="https://wonjoon.gitbook.io/joons-til/techtalk-review/slash24-toss/toss-payments-settlement-legacy-system-overhaul-a-review">(25.12.08) [리뷰] 토스페이먼츠 정산 레거시 시스템 개편기 리뷰</a></li>
-  <li><a href="https://wonjoon.gitbook.io/joons-til/infra/what-is-argocd">(25.12.05) ArgoCD란?</a></li>
-
+  <li><a href="https://wonjoon.gitbook.io/joons-til/books/the-pragmatic-programmer/8-before-the-project">(25.12.11) [실용주의 프로그래머] 8장. 프로젝트 전에</a></li>
+  <li><a href="https://wonjoon.gitbook.io/joons-til/trustay/documentation/analyzing-a-long-running-transaction-and-database-lock-incident-caused-by-a-cursor-paging-bug">(25.12.17) 커서 페이징 오류로 인한 장시간 트랜잭션과 DB Lock 장애 분석</a></li>
 
 <details>
 <summary>더 보기</summary>
