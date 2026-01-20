@@ -1,6 +1,7 @@
 <h2>WonJoon Choi</h2>           
 
 - 🔍 [Gitbook 블로그](https://wonjoon.gitbook.io/joons-til/)
+- 🧩 [Docs 이력서](https://docs.google.com/document/d/11A9MtsSw0iv5a-aoBb1BB2AvdqiYaRL-fnArc0US-HY/edit?usp=sharing)
 - 🧩 [Notion 이력서](https://wonjoonthomaschoi.notion.site/140addeab35680c79943e5530ad196c8?pvs=74)
 - 🏆 [Notion 포트폴리오](https://wonjoonthomaschoi.notion.site/140addeab3568150b6ded356ea199e48)
 <!-- 🤗 [멘토링](https://mentoring.inflearn.com/mentors/5015) -->
