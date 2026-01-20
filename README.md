@@ -23,7 +23,7 @@
     - [도메인 정합성 확보: 알림 수신 주체를 유저/채널 -> 채널 기준으로 통일하여 알림 주체 혼란 제거](https://wonjoon.gitbook.io/joons-til/trustay/documentation/eliminating-domain-confusion-in-a-notification-system)
     - [푸시 추적성 강화: 다중 대상 푸시를 1Row = 1Target 구조로 재설계하여 에러 추적 용이함과 성능 예측 향상](https://wonjoon.gitbook.io/joons-til/trustay/documentation/designing-a-traceable-push-delivery-system)
     - [대량 위치 기반 조회에서 Spatial Index를 쓰지 않은 이유: 정확도 vs 성능 트레이드 오프](https://wonjoon.gitbook.io/joons-til/trustay/documentation/avoiding-spatial-index-for-trade-off)
-    - [중복 알림 발송 이슈 해결: Redis 기반 Rate Limit 도입](https://wonjoon.gitbook.io/joons-til/trustay/documentation/resolving-duplicate-notification-bursts-with-redis-based-rate-limiting)
+    - [중복 알림 발송 이슈 해결: Redis 기반 Rate Limit 도입](https://wonjoon.gitbook.io/joons-til/trustay/documentation/resolving-duplicate-notification-bursts-with-redis-based-rate-limiting
 - Graphic - [Backend Engineer Intern](https://wonjoon.gitbook.io/joons-til/reviews/graphic-intern-review) <i>(2024.01 ~ 2024.05)</i>
     - [조회 성능 개선 과정: 쿼리 분석과 Materialized View](https://wonjoon.gitbook.io/joons-til/database/enhancing-query-performance-and-stability-user-list)
     - [알림시스템 개선 과정: 제3 서비스 문제 발생시 신뢰도 영향 최소화](https://wonjoon.gitbook.io/joons-til/database/ensuring-data-consistency-atomicity-and-ux-optimization-feat.firebase)
@@ -76,6 +76,7 @@
   <li><a href="https://wonjoon.gitbook.io/joons-til/books/the-pragmatic-programmer/2-pragmatic-approach">(25.10.30) [실용주의 프로그래머] 2장. 실용주의 접근법</a></li>
   <li><a href="https://wonjoon.gitbook.io/joons-til/books/the-pragmatic-programmer/1-pragmatic-philosophy">(25.10.23) [실용주의 프로그래머] 1장. 실용주의 철학</a></li>
   <li><a href="https://wonjoon.gitbook.io/joons-til/techtalk-review/slash-toss/this-is-how-toss-use-gateway">(25.10.20) [리뷰] 토스는 Gateway 이렇게 씁니다</a></li>
+  <li><a href="https://wonjoon.gitbook.io/joons-til/trustay/documentation/case-study-analysis-of-git-branch-contamination-and-recovery">(25.10.04) Git 브랜치 오염 및 복구 사례 분석 보고서</a></li>
   <li><a href="https://wonjoon.gitbook.io/joons-til/techtalk-review/slash-24/next-core-banking-opening-the-era-of-lifetime-free-currency-exchange-with-msa-and-mysql">(25.09.15) [리뷰] Next 코어뱅킹, MSA와 MySQL로 여는 평생 무료 환전 시대</a></li>
   <li><a href="https://wonjoon.gitbook.io/joons-til/techtalk-review/slash-24/eliminating-unnecessary-polling-with-sse-server-sent-events-push">(25.09.08) [리뷰] SSE 이벤트 푸쉬로 불필요한 Polling 제거하기</a></li>
   <li><a href="https://wonjoon.gitbook.io/joons-til/spring/hybrid-rbac-role-+-permission">(25.08.26) Role & Privilege 기반 접근 제어(R&PBAC) 설계와 구현</a></li>
