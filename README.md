@@ -18,8 +18,6 @@
 
 ### Experience
 - <b>Trustay</b> - Backend Engineer / Nockplace Team<i>(2025.09 ~ )</i>
-    - [알림 · 푸시 시스템 개발 과정](https://wonjoon.gitbook.io/joons-til/trustay/documentation/evolution-of-notification-and-push-delivery-system)
-    - [대량 알림 생성 파이프라인 재설계](https://wonjoon.gitbook.io/joons-til/trustay/documentation/redesigning-a-bulk-notification-creation-pipeline-with-an-outbox-based-structure)
     - [도메인 정합성 확보: 알림 수신 주체를 유저/채널 -> 채널 기준으로 통일하여 알림 주체 혼란 제거](https://wonjoon.gitbook.io/joons-til/trustay/documentation/eliminating-domain-confusion-in-a-notification-system)
     - [푸시 추적성 강화: 다중 대상 푸시를 1Row = 1Target 구조로 재설계하여 에러 추적 용이함과 성능 예측 향상](https://wonjoon.gitbook.io/joons-til/trustay/documentation/designing-a-traceable-push-delivery-system)
     - [대량 위치 기반 조회에서 Spatial Index를 쓰지 않은 이유: 정확도 vs 성능 트레이드 오프](https://wonjoon.gitbook.io/joons-til/trustay/documentation/avoiding-spatial-index-for-trade-off)
@@ -63,10 +61,12 @@
 <ul>
   
 </ul>
+  <li><a href="[__URL__](https://wonjoon.gitbook.io/joons-til/trustay/documentation/redesigning-a-bulk-notification-creation-pipeline-with-an-outbox-based-structure)">(25.12.10) 대량 알림 생성 파이프라인 재설계</a></li>
   <li><a href="https://wonjoon.gitbook.io/joons-til/books/the-pragmatic-programmer/7-while-you-are-coding">(25.12.04) [실용주의 프로그래머] 7장. 동시성</a></li>
   <li><a href="https://wonjoon.gitbook.io/joons-til/techtalk-review/slash-toss/how-we-rebuilt-a-20-year-old-payment-system-from-the-ground-up">(25.12.01) [리뷰] 20년 묵은 결제 시스템, 어떻게 갈아엎었나?</a></li>
   <li><a href="https://wonjoon.gitbook.io/joons-til/trustay/documentation/avoiding-spatial-index-for-trade-off">(25.11.29) Spatial Index를 쓰지 않은 이유: 정확도 vs 성능 트레이드 오프</a></li>
   <li><a href="https://wonjoon.gitbook.io/joons-til/books/the-pragmatic-programmer/6-concurrency">(25.11.27) [실용주의 프로그래머] 6장. 동시성</a></li>
+  <li><a href="https://wonjoon.gitbook.io/joons-til/trustay/documentation/evolution-of-notification-and-push-delivery-system">(25.11.20)푸시 시스템 개발 과정</a></li>
   <li><a href="https://wonjoon.gitbook.io/joons-til/books/the-pragmatic-programmer/5-bend-or-break">(25.11.20) [실용주의 프로그래머] 5장. 구부러지거나 부러지거나</a></li>
   <li><a href="https://wonjoon.gitbook.io/joons-til/books/the-pragmatic-programmer/4-pragmatic-paranoia">(25.11.13) [실용주의 프로그래머] 4장. 실용주의 편집증</a></li>
   <li><a href="https://wonjoon.gitbook.io/joons-til/techtalk-review/dangeun-tech/the-kafka-newbies-migration">(25.11.11) [리뷰] Kafka 뉴비의 마이그레이션, 산 넘고 물 건너</a></li>
