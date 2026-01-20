@@ -23,7 +23,7 @@
     - [도메인 정합성 확보: 알림 수신 주체를 유저/채널 -> 채널 기준으로 통일하여 알림 주체 혼란 제거](https://wonjoon.gitbook.io/joons-til/trustay/documentation/eliminating-domain-confusion-in-a-notification-system)
     - [푸시 추적성 강화: 다중 대상 푸시를 1Row = 1Target 구조로 재설계하여 에러 추적 용이함과 성능 예측 향상](https://wonjoon.gitbook.io/joons-til/trustay/documentation/designing-a-traceable-push-delivery-system)
     - [대량 위치 기반 조회에서 Spatial Index를 쓰지 않은 이유: 정확도 vs 성능 트레이드 오프](https://wonjoon.gitbook.io/joons-til/trustay/documentation/avoiding-spatial-index-for-trade-off)
-    - [중복 알림 발송 이슈 해결: Redis 기반 Rate Limit 도입](https://wonjoon.gitbook.io/joons-til/trustay/documentation/resolving-duplicate-notification-bursts-with-redis-based-rate-limiting
+    - [중복 알림 발송 이슈 해결: Redis 기반 Rate Limit 도입](https://wonjoon.gitbook.io/joons-til/trustay/documentation/resolving-duplicate-notification-bursts-with-redis-based-rate-limiting)
 - Graphic - [Backend Engineer Intern](https://wonjoon.gitbook.io/joons-til/reviews/graphic-intern-review) <i>(2024.01 ~ 2024.05)</i>
     - [조회 성능 개선 과정: 쿼리 분석과 Materialized View](https://wonjoon.gitbook.io/joons-til/database/enhancing-query-performance-and-stability-user-list)
     - [알림시스템 개선 과정: 제3 서비스 문제 발생시 신뢰도 영향 최소화](https://wonjoon.gitbook.io/joons-til/database/ensuring-data-consistency-atomicity-and-ux-optimization-feat.firebase)
