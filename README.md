@@ -50,10 +50,11 @@
 ### Articles
 <!--   <li><a href="__URL__">__제목__</a></li> -->
 <ul>
+  <li><a href="https://wonjoon.gitbook.io/joons-til/toy-project/search-engine/keyword-search">[26.01.25] 키워드 검색이란?</a></li>
   <li><a href="https://wonjoon.gitbook.io/joons-til/books/tobys-spring-vol1/2.-test">(26.01.18) [토비의 스프링 vol.1] 2장. 테스트 </a></li>
   <li><a href="https://wonjoon.gitbook.io/joons-til/books/tobys-spring-vol1/1.-object-and-relation">(26.01.11) [토비의 스프링 vol.1] 1장. 오브젝트와 의존관계</a></li>
   <li><a href="https://wonjoon.gitbook.io/joons-til/books/the-pragmatic-programmer/8-before-the-project">(25.12.11) [실용주의 프로그래머] 8장. 프로젝트 전에</a></li>
-  <li><a href="https://wonjoon.gitbook.io/joons-til/trustay/documentation/analyzing-a-long-running-transaction-and-database-lock-incident-caused-by-a-cursor-paging-bug">(25.12.17) 커서 페이징 오류로 인한 장시간 트랜잭션과 DB Lock 장애 분석</a></li>
+</li>
 
 <details>
 <summary>더 보기</summary>
@@ -61,6 +62,8 @@
 <ul>
   
 </ul>
+  <li><a href="https://wonjoon.gitbook.io/joons-til/trustay/documentation/analyzing-a-long-running-transaction-and-database-lock-incident-caused-by-a-cursor-paging-bug">(25.12.17) 커서 페이징 오류로 인한 장시간 트랜잭션과 DB Lock 장애 분석</a>
+  <li><a href="https://wonjoon.gitbook.io/joons-til/toy-project/search-engine/keyword-search">키워드 검색이란?</a></li>
   <li><a href="[__URL__](https://wonjoon.gitbook.io/joons-til/trustay/documentation/redesigning-a-bulk-notification-creation-pipeline-with-an-outbox-based-structure)">(25.12.10) 대량 알림 생성 파이프라인 재설계</a></li>
   <li><a href="https://wonjoon.gitbook.io/joons-til/books/the-pragmatic-programmer/7-while-you-are-coding">(25.12.04) [실용주의 프로그래머] 7장. 동시성</a></li>
   <li><a href="https://wonjoon.gitbook.io/joons-til/techtalk-review/slash-toss/how-we-rebuilt-a-20-year-old-payment-system-from-the-ground-up">(25.12.01) [리뷰] 20년 묵은 결제 시스템, 어떻게 갈아엎었나?</a></li>
