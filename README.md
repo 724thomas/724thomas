@@ -50,10 +50,10 @@
 ### Articles
 <!--   <li><a href="__URL__">__제목__</a></li> -->
 <ul>
+  <li><a href="https://wonjoon.gitbook.io/joons-til/books/tobys-spring-vol1/4.-exception">[26.02.01] [토비의 스프링 vol.1] 4장. 테스트</a></li>
+  <li><a href="https://wonjoon.gitbook.io/joons-til/books/tobys-spring-vol1/3.-template">[26.01.25] [토비의 스프링 vol.1] 3장. 템플릿</a></li>
   <li><a href="https://wonjoon.gitbook.io/joons-til/toy-project/search-engine/keyword-search">[26.01.25] 키워드 검색이란?</a></li>
   <li><a href="https://wonjoon.gitbook.io/joons-til/books/tobys-spring-vol1/2.-test">(26.01.18) [토비의 스프링 vol.1] 2장. 테스트 </a></li>
-  <li><a href="https://wonjoon.gitbook.io/joons-til/books/tobys-spring-vol1/1.-object-and-relation">(26.01.11) [토비의 스프링 vol.1] 1장. 오브젝트와 의존관계</a></li>
-  <li><a href="https://wonjoon.gitbook.io/joons-til/books/the-pragmatic-programmer/8-before-the-project">(25.12.11) [실용주의 프로그래머] 8장. 프로젝트 전에</a></li>
 </li>
 
 <details>
@@ -62,6 +62,8 @@
 <ul>
   
 </ul>
+  <li><a href="https://wonjoon.gitbook.io/joons-til/books/tobys-spring-vol1/1.-object-and-relation">(26.01.11) [토비의 스프링 vol.1] 1장. 오브젝트와 의존관계</a></li>
+  <li><a href="https://wonjoon.gitbook.io/joons-til/books/the-pragmatic-programmer/8-before-the-project">(25.12.11) [실용주의 프로그래머] 8장. 프로젝트 전에</a></li>
   <li><a href="https://wonjoon.gitbook.io/joons-til/trustay/documentation/analyzing-a-long-running-transaction-and-database-lock-incident-caused-by-a-cursor-paging-bug">(25.12.17) 커서 페이징 오류로 인한 장시간 트랜잭션과 DB Lock 장애 분석</a>
   <li><a href="https://wonjoon.gitbook.io/joons-til/toy-project/search-engine/keyword-search">키워드 검색이란?</a></li>
   <li><a href="[__URL__](https://wonjoon.gitbook.io/joons-til/trustay/documentation/redesigning-a-bulk-notification-creation-pipeline-with-an-outbox-based-structure)">(25.12.10) 대량 알림 생성 파이프라인 재설계</a></li>
