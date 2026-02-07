@@ -18,7 +18,7 @@
 - 🚀 currently working as a **backend engineer**
 
 ### Experience
-- <b>Trustay</b> - Backend Engineer / Nockplace Team<i>(2025.09 ~ )</i>
+- <b>Trustay</b> - Backend Engineer / Nockplace Team<i>(2025.09 ~ 2026.01)</i>
     - [도메인 정합성 확보: 알림 수신 주체를 유저/채널 -> 채널 기준으로 통일하여 알림 주체 혼란 제거](https://wonjoon.gitbook.io/joons-til/trustay/documentation/eliminating-domain-confusion-in-a-notification-system)
     - [푸시 추적성 강화: 다중 대상 푸시를 1Row = 1Target 구조로 재설계하여 에러 추적 용이함과 성능 예측 향상](https://wonjoon.gitbook.io/joons-til/trustay/documentation/designing-a-traceable-push-delivery-system)
     - [대량 위치 기반 조회에서 Spatial Index를 쓰지 않은 이유: 정확도 vs 성능 트레이드 오프](https://wonjoon.gitbook.io/joons-til/trustay/documentation/avoiding-spatial-index-for-trade-off)
