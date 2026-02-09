@@ -1,4 +1,4 @@
-<h2>WonJoon Choi</h2>            
+<h2>WonJoon Choi</h2>             
 
 - 🔍 [Gitbook 블로그](https://wonjoon.gitbook.io/joons-til/)
 - 🧩 [Docs 이력서](https://docs.google.com/document/d/11A9MtsSw0iv5a-aoBb1BB2AvdqiYaRL-fnArc0US-HY/edit?usp=sharing)
