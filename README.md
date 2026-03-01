@@ -50,10 +50,10 @@
 ### Articles
 <!--   <li><a href="__URL__">__제목__</a></li> -->
 <ul>
+  <li><a href="https://wonjoon.gitbook.io/joons-til/books/tobys-spring-vol1/7.-applications-of-core-spring-technologies">(26.03.01) [토비의 스프링 vol.1] 7징. 스프링 핵심 기술의 응용</a></li>
   <li><a href="https://wonjoon.gitbook.io/joons-til/books/tobys-spring-vol1/6.-aop">(26.02.25) [토비의 스프링 vol.1] 6장. AOP</a></li>
   <li><a href="https://wonjoon.gitbook.io/joons-til/automation/why-fetchresults-is-deprecated">(26.02.15) n8n이란? </a></li>
   <li><a href="https://wonjoon.gitbook.io/joons-til/books/tobys-spring-vol1/5.-service-abstraction">(26.02.08) [토비의 스프링 vol.1] 5장. 서비스 추상화</a></li>
-  <li><a href="https://wonjoon.gitbook.io/joons-til/books/tobys-spring-vol1/4.-exception">(26.02.01) [토비의 스프링 vol.1] 4장. 테스트</a></li>
 </li>
 
 <details>
@@ -62,6 +62,7 @@
 <ul>
   
 </ul>
+  <li><a href="https://wonjoon.gitbook.io/joons-til/books/tobys-spring-vol1/4.-exception">(26.02.01) [토비의 스프링 vol.1] 4장. 테스트</a></li>
   <li><a href="https://wonjoon.gitbook.io/joons-til/books/tobys-spring-vol1/3.-template">(26.01.25) [토비의 스프링 vol.1] 3장. 템플릿</a></li>
   <li><a href="https://wonjoon.gitbook.io/joons-til/toy-project/search-engine/keyword-search">(26.01.25) 키워드 검색이란?</a></li>
   <li><a href="https://wonjoon.gitbook.io/joons-til/books/tobys-spring-vol1/2.-test">(26.01.18) [토비의 스프링 vol.1] 2장. 테스트 </a></li>
