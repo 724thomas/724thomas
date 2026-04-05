@@ -51,7 +51,7 @@
 ### Articles
 <!--   <li><a href="__URL__">__제목__</a></li> -->
 <ul>
-  <li><a href="https://wonjoon.gitbook.io/joons-til/enki/sigma-rule">(26.04.06) Sigma Rule</a></li>
+  <li><a href="https://wonjoon.gitbook.io/joons-til/enki/sigma-rule">(26.04.06) 탐지 엔지니어링 - Sigma Rule</a></li>
   <li><a href="https://wonjoon.gitbook.io/joons-til/books/tobys-spring-vol1/8.-what-is-spring">(26.03.15) [토비의 스프링 vol.1] 8장. 스프링은 무엇인가?</a></li>
   <li><a href="https://wonjoon.gitbook.io/joons-til/toy-project/search-engine/elastic-search">(26.03.11) Elasticsearch를 알림 시스템에 도입한다면?</a></li>
   <li><a href="https://wonjoon.gitbook.io/joons-til/books/tobys-spring-vol1/7.-applications-of-core-spring-technologies">(26.03.01) [토비의 스프링 vol.1] 7장. 스프링 핵심 기술의 응용</a></li>
