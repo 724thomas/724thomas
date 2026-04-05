@@ -51,10 +51,10 @@
 ### Articles
 <!--   <li><a href="__URL__">__제목__</a></li> -->
 <ul>
+  <li><a href="https://wonjoon.gitbook.io/joons-til/enki/sigma-rule">(26.04.06) Sigma Rule</a></li>
   <li><a href="https://wonjoon.gitbook.io/joons-til/books/tobys-spring-vol1/8.-what-is-spring">(26.03.15) [토비의 스프링 vol.1] 8장. 스프링은 무엇인가?</a></li>
   <li><a href="https://wonjoon.gitbook.io/joons-til/toy-project/search-engine/elastic-search">(26.03.11) Elasticsearch를 알림 시스템에 도입한다면?</a></li>
   <li><a href="https://wonjoon.gitbook.io/joons-til/books/tobys-spring-vol1/7.-applications-of-core-spring-technologies">(26.03.01) [토비의 스프링 vol.1] 7장. 스프링 핵심 기술의 응용</a></li>
-  <li><a href="https://wonjoon.gitbook.io/joons-til/books/tobys-spring-vol1/6.-aop">(26.02.25) [토비의 스프링 vol.1] 6장. AOP</a></li>
 </li>
 
 <details>
@@ -63,6 +63,7 @@
 <ul>
   
 </ul>
+  <li><a href="https://wonjoon.gitbook.io/joons-til/books/tobys-spring-vol1/6.-aop">(26.02.25) [토비의 스프링 vol.1] 6장. AOP</a></li>
   <li><a href="https://wonjoon.gitbook.io/joons-til/automation/why-fetchresults-is-deprecated">(26.02.15) n8n이란? </a></li>
   <li><a href="https://wonjoon.gitbook.io/joons-til/books/tobys-spring-vol1/5.-service-abstraction">(26.02.08) [토비의 스프링 vol.1] 5장. 서비스 추상화</a></li>
   <li><a href="https://wonjoon.gitbook.io/joons-til/books/tobys-spring-vol1/4.-exception">(26.02.01) [토비의 스프링 vol.1] 4장. 테스트</a></li>
