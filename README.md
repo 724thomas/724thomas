@@ -136,11 +136,11 @@
 <img height="120rem" src="https://github-readme-stats.vercel.app/api?username=724thomas&show_icons=true&bg_color=00000000&border_color=00000000"></img>
 
 <img height="180rem" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=724thomas2"></img> (solved.ac)
+<img height="180rem" src="https://leetcode-badge-sage.vercel.app/badge/thomas724?theme=dark&bgColor=282828"></img> (leetcode)
 -->
+
 <img width="371" height="186" alt="image" src="https://github.com/user-attachments/assets/f16c8280-9801-42ca-8b75-c958c63cdcee" />
-
-<img height="180rem" src="https://leetcode-badge-sage.vercel.app/badge/thomas724?theme=dark&bgColor=282828"></img>
-
+<img height="180rem" src="https://leetcard.jacoblin.cool/thomas724?theme=light&font=Brawler"></img>
 
 <!--
 <img height="120rem" src="https://leetcard.jacoblin.cool/thomas724"></img>
