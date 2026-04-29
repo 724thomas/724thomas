@@ -20,10 +20,14 @@
 ### Experience
 - <b>ENKI WhiteHat</b> - Backend Engineer / OFFen Team<i>(2026.03 ~ )</i>
 - <b>Trustay</b> - Backend Engineer / Nockplace Team<i>(2025.09 ~ 2026.01)</i>
+    - [Outbox 기반 생성 큐 도입: 대량 알림 생성 시 발생한 DB CPU 스파이크 상황 해결](https://wonjoon.gitbook.io/joons-til/trustay/documentation/redesigning-bulk-notification-processing-for-stability)
+    - [중단된 작업 자동 감지 및 복구 흐름 설계로 운영 관리 포인트 제거](https://wonjoon.gitbook.io/joons-til/trustay/documentation/resolving-the-reprocessing-problem)
+    - [강제 중단 메커니즘 도입으로 운영 중 안전한 중단 지점 확보](https://wonjoon.gitbook.io/joons-til/trustay/documentation/designing-a-safe-abort-mechanism-for-long-running-bulk-jobs)
+    - [다중 대상 푸시를 1Row = 1Target 구조로 재설계하여 에러 추적 용이함과 성능 예측성 향상](https://wonjoon.gitbook.io/joons-til/trustay/documentation/designing-a-traceable-push-delivery-system)
+    - [Spatial Index 트레이드 오프를 통한 위치 기반 대상 추출 성능 최적화](https://wonjoon.gitbook.io/joons-til/trustay/documentation/avoiding-spatial-index-for-trade-off)
+    - [Redis 기반 Rate Limit으로 제어: 반복 이벤트로 인한 알림 폭탄 문제 해결](https://wonjoon.gitbook.io/joons-til/trustay/documentation/resolving-duplicate-notification-bursts-with-redis-based-rate-limiting)
     - [도메인 정합성 확보: 알림 수신 주체를 유저/채널 -> 채널 기준으로 통일하여 알림 주체 혼란 제거](https://wonjoon.gitbook.io/joons-til/trustay/documentation/eliminating-domain-confusion-in-a-notification-system)
-    - [푸시 추적성 강화: 다중 대상 푸시를 1Row = 1Target 구조로 재설계하여 에러 추적 용이함과 성능 예측 향상](https://wonjoon.gitbook.io/joons-til/trustay/documentation/designing-a-traceable-push-delivery-system)
-    - [대량 위치 기반 조회에서 Spatial Index를 쓰지 않은 이유: 정확도 vs 성능 트레이드 오프](https://wonjoon.gitbook.io/joons-til/trustay/documentation/avoiding-spatial-index-for-trade-off)
-    - [중복 알림 발송 이슈 해결: Redis 기반 Rate Limit 도입](https://wonjoon.gitbook.io/joons-til/trustay/documentation/resolving-duplicate-notification-bursts-with-redis-based-rate-limiting)
+
 - Graphic - [Backend Engineer Intern](https://wonjoon.gitbook.io/joons-til/reviews/graphic-intern-review) <i>(2024.01 ~ 2024.05)</i>
     - [조회 성능 개선 과정: 쿼리 분석과 Materialized View](https://wonjoon.gitbook.io/joons-til/database/enhancing-query-performance-and-stability-user-list)
     - [알림시스템 개선 과정: 제3 서비스 문제 발생시 신뢰도 영향 최소화](https://wonjoon.gitbook.io/joons-til/database/ensuring-data-consistency-atomicity-and-ux-optimization-feat.firebase)
