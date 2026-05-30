@@ -55,12 +55,9 @@
 ### Articles
 <!--   <li><a href="__URL__">__제목__</a></li> -->
 <ul>
-  <li><a href="https://wonjoon.gitbook.io/joons-til/books/the-secret-of-the-underlying-computer/1.2-how-does-compiler-work">(26.05.28) [컴퓨터 밑바닥의 비밀] 1.4 컴퓨터 과학에서 추상화가 중요한 이유</a></li>
+  <li><a href="https://wonjoon.gitbook.io/joons-til/books/the-secret-of-the-underlying-computer/2.-how-does-a-program-work">(26.05.30) [컴퓨터 밑바닥의 비밀] 2. 프로그램이 실행되었지만, 뭐가 뭔지 하나도 모르겠다</a></li>
   <li><a href="https://wonjoon.gitbook.io/joons-til/reviews/aws-summit-2026#ind303-lg-u-ai">(26.05.26) [AWS Seoul summit26] 삼성전자:AIOps, Anthropic:에이전트의 진화, LGU+:AI기반 마이그레이션 강연 회고</a></li>
-  <li><a href="https://wonjoon.gitbook.io/joons-til/books/the-secret-of-the-underlying-computer/1.3-linker">(26.05.27) [컴퓨터 밑바닥의 비밀] 1.3 링커의 말할 수 없는 비밀</a></li>
-  <li><a href="https://wonjoon.gitbook.io/joons-til/books/the-secret-of-the-underlying-computer/1.2-how-does-compiler-work">(26.05.25) [컴퓨터 밑바닥의 비밀] 1.2. 컴파일러는 어떻게 작동하는 것일까?</a></li>
-
-</li>
+  <li><a href="https://wonjoon.gitbook.io/joons-til/books/the-secret-of-the-underlying-computer/1.-inventing-program-language">(26.05.23) [컴퓨터 밑바닥의 비밀] 1. 여러분이 프로그래밍 언어를 발명한다면?</a></li>
 
 <details>
 <summary>더 보기</summary>
@@ -68,7 +65,6 @@
 <ul>
   
 </ul>
-  <li><a href="https://wonjoon.gitbook.io/joons-til/books/the-secret-of-the-underlying-computer/1.1.-making-programming-language">(26.05.23) [컴퓨터 밑바닥의 비밀] 1.1. 여러분이 프로그래밍 언어를 발명한다면?</a></li>
   <li><a href="https://wonjoon.gitbook.io/joons-til/c/.exe-part1">(26.05.16).exe 부터 프로그램 실행까지 part1</a></li>
   <li><a href="https://wonjoon.gitbook.io/joons-til/c/undefined">(26.05.07) C 메모리 레이아웃 기초 </a></li>
   <li><a href="https://wonjoon.gitbook.io/joons-til/detection-engineering/stix-2.1-structured-threat-information-expression">(26.04.10) 탐지 엔지니어링 - STIX 2.1</a></li>
