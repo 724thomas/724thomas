@@ -37,6 +37,7 @@
 
 
 ### ToyProject
+- amux: Agentic Multiplexer. AI 코딩 에이전트(Claude Code 등)를 병렬로 돌리기 위한 Ubuntu 데스크톱 터미널 [📂 Repository](https://github.com/724thomas/amux)
 - Ecom: E-commerce 플랫폼 [📂 Repository](https://github.com/f-lab-edu/ECom)
     - [Redisson과 JPA 비관적 락을 활용한 이중 락 기반 동시성 제어 시스템 설계 및 구현](https://wonjoon.gitbook.io/joons-til/f-lab/ecom-ecommerce-project/design-and-implementation-of-a-dual-lock-concurrency-control-system-using-redisson-and-jpa-pessimist)
 - Tweeter Clone: 트워터 핵심 API 구현 [📂 Repository](https://github.com/Collaborative-AI-SystemDesign/twitter-clone)
